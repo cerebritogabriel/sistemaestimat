@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Emoções que regulam · ESTIMAT</title>
+<meta name="description" content="Cada emoção como um sinal de erro em um sistema que se regula. O ESTIMAT une cibernética, teoria de sistemas e a taxonomia de Kurzban.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Open+Sans:wght@400;600&display=swap">
+<style>
+/* Ensayo de una columna con un diagrama del lazo de retroalimentación. Paleta de ESTIMAT; colores de nivel para los cuatro niveles. */
+:root{
+  --bg:#f7f3ee; --surf:#fdfbf9; --fg:#212020; --mut:#6e6762; --line:#ded5c7;
+  --acc:#2f7f97; --accw:#e2eef2; --warm:#8a6a45;
+  --s:#3f8f86; --e:#3A6FBF; --r:#865068; --c:#c0645a;
+  --disp:"Cormorant Garamond",Georgia,"Times New Roman",serif;
+  --body:"Open Sans","Segoe UI",system-ui,sans-serif;
+  padding-top:env(safe-area-inset-top,0px); padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#16191b; --surf:#1e2326; --fg:#ece6df; --mut:#a69e97; --line:#343a3e;
+  --acc:#7cc3d8; --accw:#1f3338; --warm:#d2b48c;
+  --s:#8cc7bf; --e:#8fb0e6; --r:#cf9db4; --c:#f2a89f; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#16191b; --surf:#1e2326; --fg:#ece6df; --mut:#a69e97; --line:#343a3e;
+  --acc:#7cc3d8; --accw:#1f3338; --warm:#d2b48c;
+  --s:#8cc7bf; --e:#8fb0e6; --r:#cf9db4; --c:#f2a89f; color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:400 16px/1.65 var(--body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:24px 64px}
+.w{max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:40px}
+h1{font:600 48px/1.02 var(--disp);margin:0;text-wrap:balance}
+h2{font:600 30px/1.15 var(--disp);margin:0;text-wrap:balance}
+p{margin:0;max-width:66ch}
+a{color:var(--acc)}
+a:focus-visible,button:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.lab{font:600 11px var(--body);letter-spacing:.09em;text-transform:uppercase;color:var(--mut)}
+section,header{display:flex;flex-direction:column;gap:14px}
+.top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.thesis{font:500 24px/1.35 var(--disp);color:var(--fg)}
+.cta{display:flex;flex-wrap:wrap;gap:10px}
+.btn{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 18px;border-radius:999px;border:1px solid var(--line);background:var(--surf);color:var(--fg);text-decoration:none;font:600 14px var(--body)}
+.btn.main{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.btn:hover{border-color:var(--acc)}
+figure{margin:0;border:1px solid var(--line);background:var(--surf);border-radius:16px;padding:16px;display:flex;flex-direction:column;gap:10px}
+figcaption{font-size:13px;color:var(--mut)}
+svg text{font-family:var(--body)}
+.map{display:grid;grid-template-columns:auto 1fr;gap:8px 14px;font-size:15px}
+.map dt{font-weight:600}
+.map dd{margin:0;color:var(--mut)}
+.lv{display:flex;flex-direction:column;border-top:1px solid var(--line)}
+.lv div{display:grid;grid-template-columns:120px 1fr;gap:12px;padding:10px 0;border-bottom:1px solid var(--line);align-items:baseline}
+.lv b{display:flex;align-items:center;gap:8px}
+.lv i{width:9px;height:9px;border-radius:50%;display:inline-block}
+.lv span{color:var(--mut);font-size:15px}
+.hyp{display:flex;flex-direction:column;gap:12px}
+.hyp div{border-left:3px solid var(--warm);padding:2px 0 2px 14px;display:flex;flex-direction:column;gap:4px}
+.hyp b{font-size:15px}
+.hyp span{font-size:15px;color:var(--mut)}
+.note{font-size:14px;color:var(--mut);border-left:3px solid var(--line);padding-left:12px}
+.talk{background:var(--surf);border:1px solid var(--line);border-radius:16px;padding:18px;display:flex;flex-direction:column;gap:12px}
+.mail{display:flex;flex-wrap:wrap;align-items:center;gap:10px}
+.mail code{font:600 15px var(--body);user-select:all;background:var(--accw);padding:6px 10px;border-radius:8px}
+.mail button{min-height:40px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--fg);padding:0 14px;cursor:pointer;font:600 13px var(--body)}
+.refs{font-size:13px;color:var(--mut);display:flex;flex-direction:column;gap:6px;border-top:1px solid var(--line);padding-top:16px}
+.refs ol{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:4px}
+@media (max-width:520px){h1{font-size:38px}.thesis{font-size:21px}.lv div{grid-template-columns:1fr;gap:2px}.map{grid-template-columns:1fr}.map dd{margin-bottom:6px}}
+</style>
+<style id="enav-css">
+.enav{--nb:#f8f4ee;--nf:#212020;--nm:#6e6762;--nl:#ded5c7;--na:#2f7f97;--ns:#efe6da;
+  position:sticky;top:env(safe-area-inset-top,0px);z-index:50;background:color-mix(in srgb,var(--nb) 92%,transparent);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border-bottom:1px solid var(--nl);font-family:"Open Sans","Segoe UI",system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .enav{--nb:#0f1f27;--nf:#dbe8ec;--nm:#9db4bc;--nl:#2f5360;--na:#9fd0df;--ns:#1b3a47}}
+:root[data-theme="dark"] .enav{--nb:#0f1f27;--nf:#dbe8ec;--nm:#9db4bc;--nl:#2f5360;--na:#9fd0df;--ns:#1b3a47}
+.enav-in{max-width:1040px;margin:0 auto;display:flex;align-items:center;gap:6px;min-height:58px;padding-block:6px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.enav a{color:var(--nf);text-decoration:none}
+.enav-home{display:flex;align-items:center;margin-right:auto;min-height:44px}
+.enav-logo{height:22px;width:auto;display:block;color:var(--nf)}
+.enav-it{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;min-width:58px;min-height:46px;padding:4px 8px;border-radius:12px;font-size:11px;line-height:1.1;color:var(--nm)!important}
+.enav-it svg{width:22px;height:22px;stroke:currentColor;fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.enav-it[aria-current="page"]{background:var(--ns);color:var(--nf)!important;font-weight:600}
+.enav-it:hover{color:var(--nf)!important}
+.enav-app{margin-left:6px;display:inline-flex;align-items:center;min-height:40px;padding:0 14px;border-radius:999px;background:var(--nf);color:var(--nb)!important;font-weight:600;font-size:13px;white-space:nowrap}
+.enav a:focus-visible{outline:2px solid var(--na);outline-offset:2px}
+.enav-home{min-width:0;flex:0 1 auto}.enav-logo{max-width:100%}
+@media (max-width:480px){.enav-in{gap:2px}.enav-logo{height:16px}.enav-it{min-width:48px;padding:4px 3px}.enav-app{padding:0 10px;font-size:12px;margin-left:4px}}
+@media (max-width:360px){.enav-it span{display:none}}
+.enav .langs{display:flex;gap:2px;margin-left:6px}.enav .langs a{font:600 11px "Open Sans",sans-serif;letter-spacing:.06em;color:var(--nm);padding:6px 5px;border-radius:8px;min-height:32px;display:inline-flex;align-items:center}.enav .langs a[aria-current="true"]{color:var(--nf);background:var(--ns)}@media (max-width:560px){.enav .langs{display:none}}</style>
+<style>h1,h2,.num b,tr.rk th{font-family:"Open Sans","Segoe UI",system-ui,sans-serif!important;letter-spacing:-.012em}body{padding-top:0!important}.enav{margin-bottom:20px;margin-left:calc(-1 * max(16px,env(safe-area-inset-left,0px)));margin-right:calc(-1 * max(16px,env(safe-area-inset-right,0px)))}</style>
+</head>
+<body>
+<nav class="enav" aria-label="ESTIMAT"><div class="enav-in"><a class="enav-home" href="pt.html" aria-label="ESTIMAT"><svg class="enav-logo" viewBox="0 0 162 29" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ESTIMAT"><path fill="currentColor" stroke="currentColor" stroke-width=".45" stroke-linejoin="round" fill-rule="evenodd" d="M14.32 26.89L14.32 25.77L12.50 25.77C11.50 25.77 10.12 25.70 9.44 25.60C5.58 25.07 2.62 23.07 1.12 20.00C0.21 18.12 0.00 16.83 0.00 13.13L0.00 10.02L1.35 10.02L2.70 10.02L2.70 13.27C2.70 16.10 2.75 16.65 3.04 17.60C3.80 20.12 5.57 21.82 8.27 22.67C8.88 22.86 9.94 22.97 11.72 23.03L14.30 23.11L14.35 15.65C14.40 8.38 14.41 8.17 14.75 7.25C15.87 4.28 18.51 1.71 21.64 0.54C22.79 0.12 22.96 0.10 26.42 0.04C30.50 -0.04 31.86 0.13 33.58 0.92C36.75 2.37 39.17 5.52 40.01 9.28C40.23 10.29 40.27 11.09 40.21 13.88C40.13 17.58 40.01 18.20 38.93 20.28C38.18 21.72 36.03 23.80 34.52 24.53C32.35 25.58 32.04 25.61 24.38 25.61C20.61 25.61 17.41 25.66 17.27 25.71C17.08 25.79 17.02 26.05 17.02 26.90L17.02 28.00L15.67 28.00L14.32 28.00L14.32 26.89ZM32.19 22.59C34.66 21.83 36.53 19.83 37.31 17.13C37.53 16.37 37.56 15.65 37.51 12.92C37.45 9.81 37.43 9.57 37.03 8.56C36.19 6.42 34.62 4.51 32.99 3.62C31.55 2.85 30.63 2.70 27.03 2.70C24.18 2.70 23.60 2.75 22.70 3.02C20.65 3.66 18.53 5.51 17.59 7.48L17.10 8.51L17.06 15.81L17.01 23.12L24.11 23.01C30.44 22.90 31.31 22.86 32.19 22.59Z"/><path fill="currentColor" d="M54.30 9.30H57.10V22.70H54.30ZM54.30 9.30H64.70V11.90H54.30ZM54.30 14.70H64.00V17.30H54.30ZM54.30 20.10H64.70V22.70H54.30ZM86.30 9.30H97.70V11.90H86.30ZM90.60 9.30H93.40V22.70H90.60ZM103.60 9.30H106.40V22.70H103.60ZM114.20 22.70L114.20 9.30L117.40 9.30L121.00 16.40L124.60 9.30L127.80 9.30L127.80 22.70L125.00 22.70L125.00 14.20L122.30 19.40L119.70 19.40L117.00 14.20L117.00 22.70ZM133.40 22.70L139.30 9.30L142.70 9.30L148.60 22.70L145.60 22.70L144.50 20.20L137.50 20.20L136.40 22.70ZM141.00 12.90L138.60 17.60L143.40 17.60ZM150.30 9.30H160.70V11.90H150.30ZM154.10 9.30H156.90V22.70H154.10Z"/><path fill="none" stroke="currentColor" stroke-width="2.6" d="M82 12.3C80.9 11.1 79.4 10.6 77.2 10.6C74.2 10.6 72.6 11.8 72.6 13.6C72.6 15.5 74.3 15.9 76.9 16.1C79.8 16.4 81.4 17.1 81.4 19C81.4 20.7 79.7 21.4 76.9 21.4C74.3 21.4 72.6 20.7 71.4 19.4"/></svg></a><a class="enav-it" href="pt.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 8h5q2 0 2 2v3q0 2 2 2h2q2 0 2-2v-3q0-2 2-2h5"/></svg><span>Início</span></a><a class="enav-it" href="estimat-afecto-pt.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21v-8M12 13l-6-6M12 13l6-6M6 7V3M6 7L3 4M18 7l3-3M18 7V3"/></svg><span>Emoções</span></a><a class="enav-it" href="estimat-sistemas-pt.html" aria-current="page"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12a7 7 0 1 1 2 5"/><path d="M5 20v-3.5h3.5"/></svg><span>Ensaio</span></a><a class="enav-app" href="https://cerebritogabriel.github.io/estimat/pt.html">Abrir app</a><span class="langs"><a href="estimat-sistemas.html" hreflang="es">ES</a><a href="estimat-sistemas-pt.html" hreflang="pt" aria-current="true">PT</a><a href="estimat-sistemas-en.html" hreflang="en">EN</a></span></div></nav>
+<div class="w">
+
+<header>
+  <div class="top">
+    <span class="lab">ESTIMAT · cibernética e sistemas</span>
+    <span class="lab"><a href="estimat-sistemas.html" style="text-decoration:none">ES</a> · <a href="estimat-sistemas-pt.html" style="text-decoration:none">PT</a> · <a href="estimat-sistemas-en.html" style="text-decoration:none">EN</a></span>
+    <a href="https://www.instagram.com/estimat.mapea.medita/" class="lab" style="color:var(--acc);text-decoration:none">Instagram ↗</a>
+  </div>
+  <h1>Emoções que regulam</h1>
+  <p class="thesis">Uma hipótese: cada emoção é um sinal de erro em um sistema que se regula. Nomeá-la com precisão é dar ao sistema um painel melhor.</p>
+  <div class="cta">
+    <a class="btn main" href="estimat-afecto-pt.html">Experimentar o caminho do afeto</a>
+    <a class="btn" href="https://cerebritogabriel.github.io/estimat/pt.html">Conhecer o ESTIMAT</a>
+    <a class="btn" href="https://www.instagram.com/estimat.mapea.medita/">Comentar no Instagram</a>
+  </div>
+</header>
+
+<section aria-labelledby="h1s">
+  <h2 id="h1s">O laço de retroalimentação</h2>
+  <p>A cibernética estuda sistemas que se corrigem sozinhos. Norbert Wiener a definiu em 1948: um sistema tem uma meta, mede seu estado, compara os dois e age sobre a diferença. Um termostato faz isso com a temperatura.</p>
+  <p>O ESTIMAT aplica o mesmo laço às suas decisões. Antes de agir, você prevê quanto esforço vai custar e quanta satisfação vai dar. Depois registra o que obteve. A diferença entre previsão e retorno é seu sinal de erro, e com ela você ajusta a próxima previsão.</p>
+  <figure>
+    <svg viewBox="0 0 640 230" role="img" aria-labelledby="lz-t" style="width:100%;height:auto">
+      <title id="lz-t">Laço do ESTIMAT: meta e previsão, ação, retorno, comparação e ajuste</title>
+      <defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="var(--mut)"/></marker></defs>
+      <g fill="none" stroke="var(--mut)" stroke-width="1.5">
+        <path d="M150 60H250" marker-end="url(#ar)"/><path d="M390 60H490" marker-end="url(#ar)"/>
+        <path d="M560 90V170H390" marker-end="url(#ar)"/><path d="M250 170H90V90" marker-end="url(#ar)"/>
+      </g>
+      <g stroke="var(--line)" stroke-width="1.5">
+        <rect x="20" y="30" width="130" height="60" rx="14" fill="var(--accw)"/>
+        <rect x="250" y="30" width="140" height="60" rx="14" fill="var(--bg)"/>
+        <rect x="490" y="30" width="130" height="60" rx="14" fill="var(--bg)"/>
+        <rect x="250" y="140" width="140" height="60" rx="14" fill="var(--accw)"/>
+      </g>
+      <g font-size="15" font-weight="600" fill="var(--fg)" text-anchor="middle">
+        <text x="85" y="57">Mapear</text><text x="320" y="57">Investir</text><text x="555" y="57">Retorno</text><text x="320" y="167">Comparar</text>
+      </g>
+      <g font-size="12" fill="var(--mut)" text-anchor="middle">
+        <text x="85" y="76">meta</text><text x="320" y="76">previsão e ação</text><text x="555" y="76">o que você obteve</text><text x="320" y="186">erro = previsão − retorno</text>
+        <text x="170" y="160">ajustar</text>
+      </g>
+    </svg>
+    <figcaption>O ciclo do ESTIMAT como laço de retroalimentação. O erro de previsão corrige a meta ou a próxima aposta.</figcaption>
+  </figure>
+</section>
+
+<section aria-labelledby="h2s">
+  <h2 id="h2s">Cada emoção mede algo</h2>
+  <p>Robert Kurzban (<i>All the Feels</i>, 2025) propõe que cada emoção resolve um problema: mede uma quantidade e empurra para agir. Lida com a cibernética, uma emoção tem as três peças do laço: um sensor, um sinal de erro e uma ação.</p>
+  <dl class="map">
+    <dt>Fome</dt><dd>mede quanta energia falta e empurra a comer.</dd>
+    <dt>Raiva</dt><dd>mede se alguém te valoriza menos do que você espera e empurra a reclamar ou negociar.</dd>
+    <dt>Tédio</dt><dd>mede que a tarefa rende pouco e empurra a buscar outra melhor.</dd>
+    <dt>Surpresa</dt><dd>mede que sua previsão falhou e dirige a atenção para atualizar.</dd>
+  </dl>
+  <p>As funções de cada emoção são hipóteses evolutivas. Algumas têm mais evidência que outras.</p>
+</section>
+
+<section aria-labelledby="h3s">
+  <h2 id="h3s">Variedade suficiente para regular</h2>
+  <p>W. Ross Ashby formulou a lei da variedade requerida: um regulador só controla tantas perturbações distintas quantas respostas distintas ele tem. Com duas palavras, «bem» e «mal», não se distingue uma fome de uma raiva, e a resposta tende a ser a mesma para as duas.</p>
+  <p>Conant e Ashby (1970) deram um passo além: todo bom regulador de um sistema deve conter um modelo desse sistema. Nomear o que você sente é construir esse modelo. Por isso o caminho do afeto vai de duas opções a mais de cem, mas passo a passo, para não virar uma lista impossível.</p>
+  <p class="note">Isto é uma analogia com base formal, não uma prova. A pergunta empírica é se mais precisão ao nomear melhora a regulação. Alguns estudos sobre granularidade emocional apontam nessa direção; no ESTIMAT fica como hipótese a medir.</p>
+</section>
+
+<section aria-labelledby="h4s">
+  <h2 id="h4s">Laços aninhados</h2>
+  <p>William T. Powers propôs que o comportamento é uma hierarquia de laços de controle: os de cima fixam as metas dos de baixo. O ESTIMAT organiza a vida em quatro níveis que funcionam assim, do mais rápido e simples ao mais lento e integrador.</p>
+  <div class="lv">
+    <div><b><i style="background:var(--c)"></i>Corporal</b><span>Reativo. Sinais do corpo: fome, dor, sono.</span></div>
+    <div><b><i style="background:var(--r)"></i>Racional</b><span>Preditivo. Atenção e conhecimento: curiosidade, surpresa, confusão.</span></div>
+    <div><b><i style="background:var(--e)"></i>Emocional</b><span>Ponderado. Perigos e oportunidades: medo, ansiedade, prazer.</span></div>
+    <div><b><i style="background:var(--s)"></i>Social</b><span>Integrador. Vínculos e grupo: amor, raiva, vergonha, pertencimento.</span></div>
+  </div>
+  <p>Os quatro reinos de Kurzban encaixam quase um a um com esses níveis. Algumas emoções complexas sobem de nível: o deleite junta uma surpresa (racional) com felicidade (social).</p>
+</section>
+
+<section aria-labelledby="h5s">
+  <h2 id="h5s">O que as organizações aprenderam</h2>
+  <p>As organizações usam esse laço há décadas. O ciclo de Deming (planejar, fazer, verificar, agir) é o mesmo que mapear, investir e comparar o retorno.</p>
+  <p>Também aprenderam um limite. Kluger e DeNisi (1996) reuniram centenas de estudos sobre retroalimentação no trabalho. Em média melhorou o desempenho, mas em cerca de um terço dos casos piorou, sobretudo quando mirava a pessoa e não a tarefa. Por isso o ESTIMAT compara previsões com resultados e não avalia quem os registra.</p>
+</section>
+
+<section aria-labelledby="h6s">
+  <h2 id="h6s">Hipóteses para testar</h2>
+  <div class="hyp">
+    <div><b>Precisão e calibração</b><span>Quem nomeia seu afeto com mais detalhe reduz seu erro de previsão nas semanas seguintes mais do que quem só marca agradável ou desagradável.</span></div>
+    <div><b>Humor e viés</b><span>O afeto ao iniciar prevê a direção do erro: o humor agradável com muita energia leva a superestimar, o desagradável com pouca energia a subestimar.</span></div>
+    <div><b>Níveis e retorno</b><span>As ações que miram níveis mais integradores rendem mais satisfação por hora, mas com mais variância.</span></div>
+  </div>
+  <p>Se alguma não se cumprir com dados reais, a mudamos. Isso também é um laço de retroalimentação.</p>
+</section>
+
+<section aria-labelledby="h7s" class="talk">
+  <h2 id="h7s">O que você vê de errado?</h2>
+  <p>Queremos críticas. Diga qual hipótese parece fraca, qual emoção está mal colocada ou qual fonte falta.</p>
+  <div class="cta"><a class="btn main" href="https://www.instagram.com/estimat.mapea.medita/">Comentar no Instagram</a></div>
+  <div class="mail"><span>Ou por e-mail:</span><code id="ml">sistemaestimat@gmail.com</code><button type="button" id="cp">Copiar</button><a href="mailto:sistemaestimat@gmail.com?subject=Emo%C3%A7%C3%B5es%20que%20regulam">Abrir e-mail</a></div>
+</section>
+
+<footer class="refs">
+  <span class="lab">Fontes</span>
+  <ol>
+    <li>Wiener, N. (1948). <i>Cybernetics</i>.</li>
+    <li>Ashby, W. R. (1956). <i>An Introduction to Cybernetics</i>.</li>
+    <li>Conant, R. C. e Ashby, W. R. (1970). Every good regulator of a system must be a model of that system.</li>
+    <li>Powers, W. T. (1973). <i>Behavior: The Control of Perception</i>.</li>
+    <li>Deming, W. E. (1986). <i>Out of the Crisis</i>.</li>
+    <li>Kluger, A. N. e DeNisi, A. (1996). The effects of feedback interventions on performance.</li>
+    <li>Kurzban, R. (2025). <i>All the Feels</i>.</li>
+    <li>Russell, J. A. (1980). A circumplex model of affect.</li>
+  </ol>
+  <span>ESTIMAT · <a href="https://cerebritogabriel.github.io/estimat/pt.html">cerebritogabriel.github.io/estimat</a> · <a href="https://www.instagram.com/estimat.mapea.medita/">@estimat.mapea.medita</a></span>
+</footer>
+</div>
+<script>
+document.getElementById('cp').addEventListener('click',function(){var b=this,t=document.getElementById('ml').textContent;
+  function ok(){b.textContent='Copiado';setTimeout(function(){b.textContent='Copiar';},1800);}
+  if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(ok,function(){sel();});}else sel();
+  function sel(){var r=document.createRange();r.selectNodeContents(document.getElementById('ml'));var s=getSelection();s.removeAllRanges();s.addRange(r);}
+});
+</script>
+</body>
+</html>

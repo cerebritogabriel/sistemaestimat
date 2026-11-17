@@ -1,0 +1,26 @@
+[
+ {
+  "plantilla": "index.html",
+  "salidas": {
+   "es": "index.html",
+   "pt": "pt.html",
+   "en": "en.html"
+  }
+ },
+ {
+  "plantilla": "afecto.html",
+  "salidas": {
+   "es": "estimat-afecto-es.html",
+   "pt": "estimat-afecto-pt.html",
+   "en": "estimat-afecto-en.html"
+  }
+ },
+ {
+  "plantilla": "sistemas.html",
+  "salidas": {
+   "es": "estimat-sistemas.html",
+   "pt": "estimat-sistemas-pt.html",
+   "en": "estimat-sistemas-en.html"
+  }
+ }
+]

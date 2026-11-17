@@ -1,0 +1,3482 @@
+{
+ "index.k0001": {
+  "es": "es",
+  "pt": "pt",
+  "en": "en"
+ },
+ "index.k0002": {
+  "es": "ESTIMAT es una app web de autoconocimiento. Nombras lo que sientes, predices, actúas y comparas",
+  "pt": "O app ESTIMAT é um app web de autoconhecimento. Você nomeia o que sente, prevê, age e compara",
+  "en": "ESTIMAT is a self-knowledge web app. You name what you feel, predict, act and compare"
+ },
+ "index.k0003": {
+  "es": "index",
+  "pt": "pt",
+  "en": "en"
+ },
+ "index.k0004": {
+  "es": "Inicio",
+  "pt": "Início",
+  "en": "Home"
+ },
+ "index.k0005": {
+  "es": "Emociones",
+  "pt": "Emoções",
+  "en": "Emotions"
+ },
+ "index.k0006": {
+  "es": "sistemas",
+  "pt": "sistemas-pt",
+  "en": "sistemas-en"
+ },
+ "index.k0007": {
+  "es": "Ensayo",
+  "pt": "Ensaio",
+  "en": "Essay"
+ },
+ "index.k0008": {
+  "es": "",
+  "pt": "pt.html",
+  "en": ""
+ },
+ "index.k0009": {
+  "es": "Abrir",
+  "pt": "Abrir",
+  "en": "Open"
+ },
+ "index.k0010": {
+  "es": " aria-current=\"true\"",
+  "pt": "",
+  "en": ""
+ },
+ "index.k0011": {
+  "es": "",
+  "pt": " aria-current=\"true\"",
+  "en": ""
+ },
+ "index.k0012": {
+  "es": "",
+  "pt": "",
+  "en": " aria-current=\"true\""
+ },
+ "index.k0013": {
+  "es": "Para quien sabe que se equivoca más de lo que quisiera",
+  "pt": "Para quem sabe que erra mais do que gostaria",
+  "en": "For people who know they are wrong more often than they would like"
+ },
+ "index.k0014": {
+  "es": "Ajusta lo que predices de ti",
+  "pt": "Ajuste o que você prevê de si",
+  "en": "Calibrate what you predict about yourself"
+ },
+ "index.k0015": {
+  "es": "El problema:</b> tu expectativa y tu realidad no coinciden. La brecha duele o confunde. La app ESTIMAT puede ayudarte a negociarla",
+  "pt": "O problema:</b> sua expectativa e sua realidade não coincidem. A distância dói ou confunde. O app ESTIMAT pode ajudar você a negociá-la",
+  "en": "The problem:</b> your expectation and your reality do not match. The gap hurts or confuses. The ESTIMAT app may help you negotiate it"
+ },
+ "index.k0016": {
+  "es": "En la app ESTIMAT buscamos tu bienestar a largo plazo. Proponemos un camino: conocerte con tus propios datos, en lo que te sale bien y en lo que te sale mal. Ves dónde fallan tus predicciones sobre ti y decides mejor con eso. Que funcione es una apuesta, y te invitamos a hacerla con nosotros. Puede ayudarte mucho o poco. Al final tendrás datos para juzgar cuánto vale conocerte en tu vida",
+  "pt": "No app ESTIMAT buscamos seu bem-estar a longo prazo. Propomos um caminho: conhecer você com seus próprios dados, no que dá certo e no que dá errado. Você vê onde suas previsões sobre você falham e decide melhor com isso. É uma aposta, e convidamos você a fazê-la com a gente. Pode ajudar muito ou pouco. No fim, você terá dados para julgar quanto vale se conhecer na sua vida",
+  "en": "With the ESTIMAT app we seek your long-term wellbeing. We propose a path: knowing yourself with your own data, in what goes well and in what goes badly. You see where your predictions about yourself fail and you decide better with that. That it works is a bet, and we invite you to make it with us. It may help you a lot or a little. In the end you will have data to judge how much knowing yourself is worth in your life"
+ },
+ "index.k0017": {
+  "es": "Ver cómo funciona",
+  "pt": "Ver como funciona",
+  "en": "See how it works"
+ },
+ "index.k0018": {
+  "es": "A veces tenemos expectativas simples",
+  "pt": "Às vezes temos expectativas simples",
+  "en": "Sometimes we have simple expectations"
+ },
+ "index.k0019": {
+  "es": "Un caño lleva agua hacia una planta, la expectativa. Falta un codo y el agua se derrama antes, en la realidad",
+  "pt": "Um cano leva água até uma planta, a expectativa. Falta um cotovelo e a água se derrama antes, na realidade",
+  "en": "A pipe carries water to a plant, the expectation. An elbow is missing and the water spills earlier, in reality"
+ },
+ "index.k0020": {
+  "es": "expectativa",
+  "pt": "expectativa",
+  "en": "expectation"
+ },
+ "index.k0021": {
+  "es": "realidad",
+  "pt": "realidade",
+  "en": "reality"
+ },
+ "index.k0022": {
+  "es": "La pieza que falta: el tercer codo",
+  "pt": "A peça que falta: o terceiro cotovelo",
+  "en": "The missing piece: the third elbow"
+ },
+ "index.k0023": {
+  "es": "y falta una pequeña pieza para realizarlas",
+  "pt": "e falta uma pequena peça para realizá-las",
+  "en": "and a small piece is missing to make them real"
+ },
+ "index.k0024": {
+  "es": "Sesgos",
+  "pt": "Vieses",
+  "en": "Biases"
+ },
+ "index.k0025": {
+  "es": "Qué errores queremos bajar",
+  "pt": "Que erros queremos reduzir",
+  "en": "Which errors we want to shrink"
+ },
+ "index.k0026": {
+  "es": "Seis errores conocidos al predecir sobre uno mismo. Para cada uno, cómo la app puede ayudar. Que la app los baje es nuestra hipótesis, no un dato",
+  "pt": "Seis erros conhecidos ao prever sobre si mesmo. Para cada um, como o app pode ajudar. Que o app os reduza é nossa hipótese, não um dado",
+  "en": "Six known errors in predicting about yourself. For each, how the app may help. That the app reduces them is our hypothesis, not a finding"
+ },
+ "index.k0027": {
+  "es": "Acostumbrarte a lo bueno",
+  "pt": "Acostumar-se ao que é bom",
+  "en": "Hedonic adaptation"
+ },
+ "index.k0028": {
+  "es": "Te acostumbras a lo que lograste y deja de contar. Ves lo que falta, no lo que ya hiciste",
+  "pt": "Você se acostuma com o que conquistou e isso deixa de contar. Vê o que falta, não o que já fez",
+  "en": "You get used to what you achieved and it stops counting. You see what is missing, not what you already did"
+ },
+ "index.k0029": {
+  "es": "Cómo la app ESTIMAT puede ayudar:</b> El Inicio pone en el centro tu satisfacción acumulada: todo lo que obtuviste, no solo lo de hoy",
+  "pt": "Como o app ESTIMAT pode ajudar:</b> O Início põe no centro sua satisfação acumulada: tudo o que você obteve, não só o de hoje",
+  "en": "How the ESTIMAT app may help:</b> Home puts your accumulated satisfaction at the center: everything you got, not just today"
+ },
+ "index.k0030": {
+  "es": "y",
+  "pt": "e",
+  "en": "and"
+ },
+ "index.k0031": {
+  "es": "239f9adbe9",
+  "pt": "7a3924d405",
+  "en": "239f9adbe9"
+ },
+ "index.k0032": {
+  "es": "Adaptación hedónica",
+  "pt": "Adaptação hedônica",
+  "en": "Hedonic adaptation"
+ },
+ "index.k0033": {
+  "es": "2cd92506c0",
+  "pt": "668cf7ee6b",
+  "en": "2cd92506c0"
+ },
+ "index.k0034": {
+  "es": "Calcular de menos el tiempo",
+  "pt": "Calcular de menos o tempo",
+  "en": "Planning fallacy"
+ },
+ "index.k0035": {
+  "es": "Subestimas el tiempo y el esfuerzo de tus tareas, aunque ya te pasó antes",
+  "pt": "Você subestima o tempo e o esforço das suas tarefas, mesmo que já tenha acontecido antes",
+  "en": "You underestimate the time and effort of your tasks, even when it has happened before"
+ },
+ "index.k0036": {
+  "es": "Cómo la app ESTIMAT puede ayudar:</b> Predices la energía antes de actuar y la comparas después. Ves tu error por área",
+  "pt": "Como o app ESTIMAT pode ajudar:</b> Você prevê a energia antes de agir e compara depois. Vê seu erro por área",
+  "en": "How the ESTIMAT app may help:</b> You predict energy before acting and compare afterwards. You see your error by area"
+ },
+ "index.k0037": {
+  "es": "7180cc174b",
+  "pt": "49dc512f6c",
+  "en": "7180cc174b"
+ },
+ "index.k0038": {
+  "es": "Falacia de planificación",
+  "pt": "Falácia do planejamento",
+  "en": "Planning fallacy"
+ },
+ "index.k0039": {
+  "es": "22badc4ffa",
+  "pt": "5736080c6d",
+  "en": "22badc4ffa"
+ },
+ "index.k0040": {
+  "es": "Errar cuánto te va a gustar",
+  "pt": "Errar quanto vai gostar",
+  "en": "Affective forecasting error"
+ },
+ "index.k0041": {
+  "es": "Sobreestimas cuánto te va a satisfacer algo, o cuánto te va a doler",
+  "pt": "Você superestima quanto algo vai te satisfazer, ou quanto vai doer",
+  "en": "You overestimate how much something will satisfy you, or how much it will hurt"
+ },
+ "index.k0042": {
+  "es": "Cómo la app ESTIMAT puede ayudar:</b> Predices la satisfacción. En el Retorno, anotas la real",
+  "pt": "Como o app ESTIMAT pode ajudar:</b> Você prevê a satisfação. No Retorno, anota a real",
+  "en": "How the ESTIMAT app may help:</b> You predict satisfaction. In Return, you log the real one"
+ },
+ "index.k0043": {
+  "es": "c06a7e8395",
+  "pt": "5d29c4253a",
+  "en": "c06a7e8395"
+ },
+ "index.k0044": {
+  "es": "680814059e",
+  "pt": "8ef821ddbc",
+  "en": "680814059e"
+ },
+ "index.k0045": {
+  "es": "Afecto del momento",
+  "pt": "Afeto do momento",
+  "en": "Emotion of the moment"
+ },
+ "index.k0046": {
+  "es": "Lo que sientes ahora tiñe lo que esperas del futuro",
+  "pt": "O que você sente agora colore o que espera do futuro",
+  "en": "What you feel now colors what you expect from the future"
+ },
+ "index.k0047": {
+  "es": "Cómo la app ESTIMAT puede ayudar:</b> Nombras la emoción antes de predecir. La app muestra tu error por emoción",
+  "pt": "Como o app ESTIMAT pode ajudar:</b> Você nomeia a emoção antes de prever. O app mostra seu erro por emoção",
+  "en": "How the ESTIMAT app may help:</b> You name the emotion before predicting. The app shows your error by emotion"
+ },
+ "index.k0048": {
+  "es": "365917bf74",
+  "pt": "7e6e8aad98",
+  "en": "365917bf74"
+ },
+ "index.k0049": {
+  "es": "Emoción del momento",
+  "pt": "Emoção do momento",
+  "en": "Emotion of the moment"
+ },
+ "index.k0050": {
+  "es": "1c32f1e3cd",
+  "pt": "f4cde8229d",
+  "en": "1c32f1e3cd"
+ },
+ "index.k0051": {
+  "es": "Creer que lo veías venir",
+  "pt": "Achar que via chegando",
+  "en": "Hindsight bias"
+ },
+ "index.k0052": {
+  "es": "Cuando ya sabes el resultado, crees que lo veías venir",
+  "pt": "Quando já sabe o resultado, você acha que o via chegando",
+  "en": "Once you know the outcome, you think you saw it coming"
+ },
+ "index.k0053": {
+  "es": "Cómo la app ESTIMAT puede ayudar:</b> Tu predicción queda guardada con fecha antes de actuar. Comparas contra lo escrito, no contra el recuerdo",
+  "pt": "Como o app ESTIMAT pode ajudar:</b> Sua previsão fica salva com data antes de agir. Você compara com o escrito, não com a lembrança",
+  "en": "How the ESTIMAT app may help:</b> Your prediction is saved with a date before you act. You compare against what you wrote, not what you remember"
+ },
+ "index.k0054": {
+  "es": "ddfbb02626",
+  "pt": "8f45487cfa",
+  "en": "ddfbb02626"
+ },
+ "index.k0055": {
+  "es": "Sesgo retrospectivo",
+  "pt": "Viés retrospectivo",
+  "en": "Hindsight bias"
+ },
+ "index.k0056": {
+  "es": "e744ae9146",
+  "pt": "7899499d43",
+  "en": "e744ae9146"
+ },
+ "index.k0057": {
+  "es": "Exceso de confianza",
+  "pt": "Excesso de confiança",
+  "en": "Overconfidence"
+ },
+ "index.k0058": {
+  "es": "Tu certeza es mayor que tus aciertos",
+  "pt": "Sua certeza é maior que seus acertos",
+  "en": "Your certainty runs ahead of your hits"
+ },
+ "index.k0059": {
+  "es": "Cómo la app ESTIMAT puede ayudar:</b> Marcas cuánta confianza tienes en cada predicción. Luego la comparas con lo que pasó",
+  "pt": "Como o app ESTIMAT pode ajudar:</b> Você marca quanta confiança tem em cada previsão. Depois a compara com o que aconteceu",
+  "en": "How the ESTIMAT app may help:</b> You mark how confident you are in each prediction. Then you compare it with what happened"
+ },
+ "index.k0060": {
+  "es": "La",
+  "pt": "O",
+  "en": "The"
+ },
+ "index.k0061": {
+  "es": "Cómo funciona",
+  "pt": "Como funciona",
+  "en": "How it works"
+ },
+ "index.k0062": {
+  "es": "Nosotros: mapeamos expectativas, invertimos en acciones y comparamos el retorno. Cada vuelta te da un dato nuevo sobre cómo predices",
+  "pt": "Nós: mapeamos expectativas, investimos em ações e comparamos o retorno. Cada volta te dá um dado novo sobre como você prevê",
+  "en": "We map expectations, invest in actions and compare the return. Each turn gives you a new data point on how you predict"
+ },
+ "index.k0063": {
+  "es": "Empieza por una parte",
+  "pt": "Comece por uma parte",
+  "en": "Start with one part"
+ },
+ "index.k0064": {
+  "es": "No tienes que registrar todo. Puedes empezar con una tarea que quieres mejorar, o con un retorno por período: el día, la semana o el mes. El mapa completo y las demás funciones se abren cuando quieras. Apostamos a que ir de a poco ayuda a sostenerlo",
+  "pt": "Você não precisa registrar tudo. Pode começar com uma tarefa que quer melhorar, ou com um retorno por período: o dia, a semana ou o mês. O mapa completo e as outras funções se abrem quando você quiser. Apostamos que ir aos poucos ajuda a sustentar",
+  "en": "You do not have to log everything. You can start with one task you want to improve, or with a return per period: the day, the week or the month. The full map and the other functions open when you want. Our bet is that going step by step helps you keep it up"
+ },
+ "index.k0065": {
+  "es": "c39043d2f6",
+  "pt": "5ca9ae9c24",
+  "en": "c39043d2f6"
+ },
+ "index.k0066": {
+  "es": "Mapa de ocho áreas",
+  "pt": "Mapa de oito áreas",
+  "en": "Map of eight areas"
+ },
+ "index.k0067": {
+  "es": "9ec075e489",
+  "pt": "658ea64249",
+  "en": "9ec075e489"
+ },
+ "index.k0068": {
+  "es": "Mapeamos expectativas</b>Ordenas lo que quieres en 8 áreas: conquistar u ofrecer, en cuatro niveles. Luego lo divides en metas concretas",
+  "pt": "Mapeamos expectativas</b>Você organiza o que quer em 8 áreas: conquistar ou oferecer, em quatro níveis. Depois divide em metas concretas",
+  "en": "We map expectations</b>You sort what you want into 8 areas: to conquer or to offer, across four levels. Then you split it into concrete goals"
+ },
+ "index.k0069": {
+  "es": "Pantalla de afecto con Ansiedad elegida",
+  "pt": "Tela de afeto com Ansiedade escolhida",
+  "en": "Affect screen with Anxiety selected"
+ },
+ "index.k0070": {
+  "es": "Invertimos en acciones</b>Nombras tu afecto y predices energía y satisfacción. Cada emoción muestra para qué sirve y cómo puede cambiar tu predicción",
+  "pt": "Investimos em ações</b>Você nomeia seu afeto e prevê energia e satisfação. Cada emoção mostra para que serve e como pode mudar sua previsão",
+  "en": "We invest in actions</b>You name your affect and predict energy and satisfaction. Each emotion shows what it is for and how it can change your prediction"
+ },
+ "index.k0071": {
+  "es": "b0a38d5b02",
+  "pt": "e4cc5da257",
+  "en": "b0a38d5b02"
+ },
+ "index.k0072": {
+  "es": "Promedios de energía y satisfacción",
+  "pt": "Médias de energia e satisfação",
+  "en": "Averages of energy and satisfaction"
+ },
+ "index.k0073": {
+  "es": "a872de2acd",
+  "pt": "65eb4b3a8d",
+  "en": "a872de2acd"
+ },
+ "index.k0074": {
+  "es": "Comparamos el retorno</b>Registras lo que obtuviste. La app compara predicción con resultado, por área, por emoción y en el tiempo",
+  "pt": "Comparamos o retorno</b>Você registra o que obteve. O app compara previsão com resultado, por área, por emoção e no tempo",
+  "en": "We compare the return</b>You log what you got. The app compares prediction with outcome, by area, by emotion and over time"
+ },
+ "index.k0075": {
+  "es": "Inicio con nivel 3 y el árbol",
+  "pt": "Início com nível 3 e a árvore",
+  "en": "Home with level 3 and the tree"
+ },
+ "index.k0076": {
+  "es": "Niveles y títulos</b>Avanzas por misiones. Cada nivel abre una función y suma ramas a tu árbol",
+  "pt": "Níveis e títulos</b>Você avança por missões. Cada nível abre uma função e soma ramos à sua árvore",
+  "en": "Levels and titles</b>You advance through missions. Each level unlocks a feature and adds branches to your tree"
+ },
+ "index.k0077": {
+  "es": "Las pantallas muestran datos de ejemplo",
+  "pt": "As telas mostram dados de exemplo",
+  "en": "Screens show sample data. The app is in Spanish and Portuguese"
+ },
+ "index.k0078": {
+  "es": "Apostemos juntos: cuanto más te conoces, más fluyes",
+  "pt": "Apostemos juntos: quanto mais você se conhece, mais você flui",
+  "en": "Let’s bet together: the more you know yourself, the more you flow"
+ },
+ "index.k0079": {
+  "es": "afectos",
+  "pt": "afetos",
+  "en": "emotions"
+ },
+ "index.k0080": {
+  "es": "Conócete por la historia de tus emociones",
+  "pt": "Conheça-se pela história das suas emoções",
+  "en": "Know yourself through the history of your emotions"
+ },
+ "index.k0081": {
+  "es": "Afecto: lo que sientes, tenga nombre o no. Un mapa para aprender, de a poco, para qué sirve cada emoción. Parte de la teoría evolutiva de Robert Kurzban. El orden y los enlaces son propuesta nuestra. Muchas emociones son antiguas y cuesta cambiarlas. La apuesta es usarlas mejor, desde su función. Abajo, tres resultados publicados y una hipótesis nuestra, separados para que no se mezclen",
+  "pt": "Afeto: o que você sente, tenha nome ou não. Um mapa para aprender, aos poucos, para que serve cada emoção. Parte da teoria evolutiva de Robert Kurzban. A ordem e os vínculos são proposta nossa. Muitas emoções são antigas e custa mudá-las. A aposta é usá-las melhor, a partir da sua função. Abaixo, três resultados publicados e uma hipótese nossa, separados para que não se misturem",
+  "en": "Affect: what you feel, named or not. A map to learn, bit by bit, what each emotion is for. It starts from Robert Kurzban’s evolutionary theory. The order and the links are our proposal. Many emotions are old and hard to change. The bet is to use them better, from their function. Below, three published results and one hypothesis of ours, kept apart so they do not blur"
+ },
+ "index.k0082": {
+  "es": "Prueba el mapa de afectos",
+  "pt": "Experimente o mapa de afetos",
+  "en": "Try the emotion map"
+ },
+ "index.k0083": {
+  "es": "Así nombras una emoción. Al empezar, eliges solo si es más bien agradable o desagradable, y su intensidad. Nombrar la emoción se gana en el nivel 3, con el uso",
+  "pt": "Assim você nomeia uma emoção. No começo, você escolhe só se é mais para agradável ou desagradável, e sua intensidade. Nomear a emoção se ganha no nível 3, com o uso",
+  "en": "This is how you name an emotion. At first you only choose whether it is rather pleasant or unpleasant, and its intensity. Naming the emotion is earned at level 3, through use"
+ },
+ "index.k0084": {
+  "es": "Recorre el Camino del afecto",
+  "pt": "Percorra o Caminho do afeto",
+  "en": "Walk the Path of Affect"
+ },
+ "index.k0085": {
+  "es": "Dato de laboratorio",
+  "pt": "Dado de laboratório",
+  "en": "Lab finding"
+ },
+ "index.k0086": {
+  "es": "Poner nombre baja la alarma",
+  "pt": "Dar nome baixa o alarme",
+  "en": "Naming lowers the alarm"
+ },
+ "index.k0087": {
+  "es": "y colegas mostraron caras con emociones dentro de un resonador. Cuando las personas elegían la palabra para esa emoción, la amígdala, zona de alarma del cerebro, respondía menos que en otras tareas con la misma cara. Una zona de control, en la frente, se activaba más",
+  "pt": "e colegas mostraram rostos com emoções dentro de um ressonador. Quando as pessoas escolhiam a palavra para aquela emoção, a amígdala, zona de alarme do cérebro, respondia menos que em outras tarefas com o mesmo rosto. Uma zona de controle, na testa, se ativava mais",
+  "en": "and colleagues showed emotional faces to people in a scanner. When participants picked the word for the emotion, the amygdala responded less than in other tasks with the same face. Right ventrolateral prefrontal cortex was more active"
+ },
+ "index.k0088": {
+  "es": "Límite: estímulos breves, en laboratorio",
+  "pt": "Limite: estímulos breves, em laboratório",
+  "en": "Limit: brief stimuli, in the lab"
+ },
+ "index.k0089": {
+  "es": "Revisión",
+  "pt": "Revisão",
+  "en": "Review"
+ },
+ "index.k0090": {
+  "es": "Distinguir emociones más específicas ayuda a regular",
+  "pt": "Distinguir emoções mais específicas ajuda a regular",
+  "en": "Distinguishing more specific emotions helps regulation"
+ },
+ "index.k0091": {
+  "es": "Quienes diferencian mejor sus emociones negativas recurren menos a estrategias dañinas, como beber en exceso o agredir. Lo resume una revisión de Kashdan, Barrett y McKnight",
+  "pt": "Quem diferencia melhor suas emoções negativas recorre menos a estratégias nocivas, como beber em excesso ou agredir. Uma revisão de Kashdan, Barrett e McKnight resume isso",
+  "en": "People who tell their negative emotions apart more finely turn less to harmful strategies, such as binge drinking or aggression. A review by Kashdan, Barrett and McKnight sums this up"
+ },
+ "index.k0092": {
+  "es": "Límite: en gran parte es correlación",
+  "pt": "Limite: em grande parte é correlação",
+  "en": "Limit: largely correlational"
+ },
+ "index.k0093": {
+  "es": "Experimento",
+  "pt": "Experimento",
+  "en": "Experiment"
+ },
+ "index.k0094": {
+  "es": "La emoción cambia lo que predices",
+  "pt": "A emoção muda o que você prevê",
+  "en": "Emotion changes what you predict"
+ },
+ "index.k0095": {
+  "es": "Las personas con miedo estiman más riesgo. Las personas con enojo estiman menos. La emoción del momento cambia lo que crees que va a pasar",
+  "pt": "Pessoas com medo estimam mais risco. Pessoas com raiva estimam menos. A emoção do momento muda o que você acha que vai acontecer",
+  "en": "Fearful people estimate more risk. Angry people estimate less. The emotion of the moment changes what you think will happen"
+ },
+ "index.k0096": {
+  "es": "Hipótesis nuestra, sin probar",
+  "pt": "Hipótese nossa, não testada",
+  "en": "Our hypothesis, untested"
+ },
+ "index.k0097": {
+  "es": "Nombrar y comparar ajusta lo que predices",
+  "pt": "Nomear e comparar ajusta o que você prevê",
+  "en": "Naming and comparing calibrates"
+ },
+ "index.k0098": {
+  "es": "Si nombras con precisión lo que sientes y luego comparas predicción con resultado, tu error baja con el tiempo. La app ESTIMAT existe para medir eso con tus propios datos",
+  "pt": "Se você nomeia com precisão o que sente e depois compara previsão com resultado, seu erro diminui com o tempo. O app ESTIMAT existe para medir isso com seus próprios dados",
+  "en": "If you name what you feel precisely and then compare prediction with outcome, your error shrinks over time. The ESTIMAT app exists to measure that with your own data"
+ },
+ "index.k0099": {
+  "es": "Puede ser falsa. Abajo decimos cómo lo sabríamos",
+  "pt": "Pode ser falsa. Abaixo dizemos como saberíamos",
+  "en": "It may be false. Below we say how we would know"
+ },
+ "index.k0100": {
+  "es": "Error medio en satisfacción",
+  "pt": "Erro médio em satisfação",
+  "en": "Mean error, satisfaction"
+ },
+ "index.k0101": {
+  "es": "primeras",
+  "pt": "primeiras",
+  "en": "first"
+ },
+ "index.k0102": {
+  "es": "21,8",
+  "pt": "21,8",
+  "en": "21.8"
+ },
+ "index.k0103": {
+  "es": "últimas",
+  "pt": "últimas",
+  "en": "last"
+ },
+ "index.k0104": {
+  "es": "12,0",
+  "pt": "12,0",
+  "en": "12.0"
+ },
+ "index.k0105": {
+  "es": "puntos",
+  "pt": "pontos",
+  "en": "points"
+ },
+ "index.k0106": {
+  "es": "Hacia dónde me equivoco en satisfacción",
+  "pt": "Para onde foram os erros de previsão em satisfação",
+  "en": "Which way I miss on satisfaction"
+ },
+ "index.k0107": {
+  "es": "12,6",
+  "pt": "12,6",
+  "en": "12.6"
+ },
+ "index.k0108": {
+  "es": "Corporal",
+  "pt": "Corporal",
+  "en": "Bodily"
+ },
+ "index.k0109": {
+  "es": "6,8",
+  "pt": "6,8",
+  "en": "6.8"
+ },
+ "index.k0110": {
+  "es": "Racional",
+  "pt": "Racional",
+  "en": "Rational"
+ },
+ "index.k0111": {
+  "es": "0,8",
+  "pt": "0,8",
+  "en": "0.8"
+ },
+ "index.k0112": {
+  "es": "Emocional",
+  "pt": "Emocional",
+  "en": "Emotional"
+ },
+ "index.k0113": {
+  "es": "6,2",
+  "pt": "6,2",
+  "en": "6.2"
+ },
+ "index.k0114": {
+  "es": "Positivo: predije más de lo que obtuve",
+  "pt": "Positivo: previ mais do que obtive",
+  "en": "Positive: I predicted more than I got"
+ },
+ "index.k0115": {
+  "es": "Esto no prueba que la app funcione. Es una sola persona y no hay grupo de control. La baja puede venir de practicar con la escala, de regresión a la media o de elegir acciones más fáciles. Lo muestro porque es el tipo de dato que la app te da sobre ti",
+  "pt": "Isto não prova que o app funciona. É uma só pessoa e não há grupo de controle. A queda pode vir da prática com a escala, de regressão à média ou de escolher ações mais fáceis. Mostro porque é o tipo de dado que o app te dá sobre você",
+  "en": "This does not show the app works. It is one person, with no control group. The drop could come from practice with the scale, regression to the mean, or choosing easier actions. I show it because it is the kind of data the app gives you about yourself"
+ },
+ "index.k0116": {
+  "es": "Comparación",
+  "pt": "Comparação",
+  "en": "Comparison"
+ },
+ "index.k0117": {
+  "es": "Qué hace distinto",
+  "pt": "O que faz de diferente",
+  "en": "What it does differently"
+ },
+ "index.k0118": {
+  "es": "Hay buenas herramientas para cada pieza por separado. La app ESTIMAT intenta unir las piezas en un solo ciclo",
+  "pt": "Há boas ferramentas para cada peça separada. O app ESTIMAT tenta unir as peças num só ciclo",
+  "en": "There are good tools for each piece on its own. The ESTIMAT app tries to join the pieces in one loop"
+ },
+ "index.k0119": {
+  "es": "Ciclo",
+  "pt": "Ciclo",
+  "en": "Loop"
+ },
+ "index.k0120": {
+  "es": "Registrar → ver patrones",
+  "pt": "Registrar → ver padrões",
+  "en": "Log → see patterns"
+ },
+ "index.k0121": {
+  "es": "Predecir → resolver → puntaje",
+  "pt": "Prever → resolver → pontuação",
+  "en": "Predict → resolve → score"
+ },
+ "index.k0122": {
+  "es": "Mapeas, nombras, predices, comparas y ajustas",
+  "pt": "Você mapeia, nomeia, prevê, compara e ajusta",
+  "en": "You map, name, predict, compare and adjust"
+ },
+ "index.k0123": {
+  "es": "Ánimo en una escala que eliges, más actividades",
+  "pt": "Humor numa escala que você escolhe, mais atividades",
+  "en": "Mood on a scale you choose, plus activities"
+ },
+ "index.k0124": {
+  "es": "No registra emociones",
+  "pt": "Não registra emoções",
+  "en": "Does not record emotions"
+ },
+ "index.k0125": {
+  "es": "emociones en 4 niveles, paso a paso",
+  "pt": "emoções em 4 níveis, passo a passo",
+  "en": "emotions across 4 levels, step by step"
+ },
+ "index.k0126": {
+  "es": "Predicciones",
+  "pt": "Previsões",
+  "en": "Predictions"
+ },
+ "index.k0127": {
+  "es": "No",
+  "pt": "Não",
+  "en": "No"
+ },
+ "index.k0128": {
+  "es": "Probabilidad de que algo pase, sí o no",
+  "pt": "Probabilidade de algo acontecer, sim ou não",
+  "en": "Probability that something happens, yes or no"
+ },
+ "index.k0129": {
+  "es": "Energía y satisfacción de 0 a 100, más tu confianza",
+  "pt": "Energia e satisfação de 0 a 100, mais sua confiança",
+  "en": "Energy and satisfaction from 0 to 100, plus your confidence"
+ },
+ "index.k0130": {
+  "es": "Correlaciones entre ánimo y actividades",
+  "pt": "Correlações entre humor e atividades",
+  "en": "Correlations between mood and activities"
+ },
+ "index.k0131": {
+  "es": "Puntaje de Brier y curva de calibración",
+  "pt": "Pontuação de Brier e curva de calibração",
+  "en": "Brier score and calibration chart"
+ },
+ "index.k0132": {
+  "es": "Error por acción, por área, por emoción y en el tiempo",
+  "pt": "Erro por ação, por área, por emoção e no tempo",
+  "en": "Error by action, by area, by emotion and over time"
+ },
+ "index.k0133": {
+  "es": "Base teórica",
+  "pt": "Base teórica",
+  "en": "Theory"
+ },
+ "index.k0134": {
+  "es": "Vocabulario libre",
+  "pt": "Vocabulário livre",
+  "en": "Free vocabulary"
+ },
+ "index.k0135": {
+  "es": "Teoría de pronósticos",
+  "pt": "Teoria de previsões",
+  "en": "Forecasting"
+ },
+ "index.k0136": {
+  "es": "Teoría de sistemas y cibernética, más estudios de calibración del juicio. Mapa de emociones adaptado de Kurzban, como hipótesis",
+  "pt": "Teoria de sistemas e cibernética, mais estudos de calibração do julgamento. Mapa de emoções adaptado de Kurzban, como hipótese",
+  "en": "Systems theory and cybernetics, plus research on judgment calibration. Emotion map adapted from Kurzban, as a hypothesis"
+ },
+ "index.k0137": {
+  "es": "Mejor para",
+  "pt": "Melhor para",
+  "en": "Best for"
+ },
+ "index.k0138": {
+  "es": "Llevar un diario de ánimo",
+  "pt": "Manter um diário de humor",
+  "en": "Keeping a mood diary"
+ },
+ "index.k0139": {
+  "es": "Predecir eventos del mundo",
+  "pt": "Prever eventos do mundo",
+  "en": "Predicting events in the world"
+ },
+ "index.k0140": {
+  "es": "Ver cómo tu emoción cambia lo que predices de ti",
+  "pt": "Ver como sua emoção muda o que você prevê de si",
+  "en": "Seeing how your emotion changes what you predict about yourself"
+ },
+ "index.k0141": {
+  "es": "Según sus sitios, noviembre de",
+  "pt": "Segundo os sites, novembro de",
+  "en": "Based on their websites, November"
+ },
+ "index.k0142": {
+  "es": "Para quien duda",
+  "pt": "Para quem duvida",
+  "en": "For the skeptic"
+ },
+ "index.k0143": {
+  "es": "Qué afirmamos y qué no",
+  "pt": "O que afirmamos e o que não",
+  "en": "What we claim and what we do not"
+ },
+ "index.k0144": {
+  "es": "error = predicción − obtenido · por acción, por área y por emoción",
+  "pt": "erro = previsão − obtido · por ação, por área e por emoção",
+  "en": "error = prediction − outcome · by action, by area and by emotion"
+ },
+ "index.k0145": {
+  "es": "Afirmamos",
+  "pt": "Afirmamos",
+  "en": "We claim"
+ },
+ "index.k0146": {
+  "es": "La app mide tu error de predicción con tus propios registros",
+  "pt": "O app mede seu erro de previsão com seus próprios registros",
+  "en": "The app measures your prediction error from your own records"
+ },
+ "index.k0147": {
+  "es": "Guarda tu confianza en cada predicción, para ver si coincide con tus aciertos",
+  "pt": "Guarda sua confiança em cada previsão, para ver se coincide com seus acertos",
+  "en": "It stores your confidence in each prediction, so you can check it against your hits"
+ },
+ "index.k0148": {
+  "es": "El mapa de afectos adapta la clasificación de Robert Kurzban (2025). Sus cuatro grandes grupos son nuestros cuatro niveles",
+  "pt": "O mapa de afetos adapta a classificação de Robert Kurzban (2025). Seus quatro grandes grupos são nossos quatro níveis",
+  "en": "The emotion map adapts Robert Kurzban’s taxonomy (2025). His four kingdoms are our four levels"
+ },
+ "index.k0149": {
+  "es": "Tus datos quedan en tu dispositivo. No hay cuenta. Puedes exportar una copia",
+  "pt": "Seus dados ficam no seu dispositivo. Não há conta. Você pode exportar uma cópia",
+  "en": "Your data stays on your device. No account. You can export a copy"
+ },
+ "index.k0150": {
+  "es": "No afirmamos",
+  "pt": "Não afirmamos",
+  "en": "We do not claim"
+ },
+ "index.k0151": {
+  "es": "Que el efecto esté demostrado. Hasta hoy la usa a diario una sola persona",
+  "pt": "Que o efeito esteja demonstrado. Até hoje uma só pessoa o usa todo dia",
+  "en": "That the effect is shown. So far, one person uses it daily"
+ },
+ "index.k0152": {
+  "es": "Que las funciones de cada emoción estén probadas. Son hipótesis evolutivas",
+  "pt": "Que as funções de cada emoção estejam provadas. São hipóteses evolutivas",
+  "en": "That each emotion’s function is proven. They are evolutionary hypotheses"
+ },
+ "index.k0153": {
+  "es": "Que reemplace la terapia. No lo hace",
+  "pt": "Que substitua a terapia. Não substitui",
+  "en": "That it replaces therapy. It does not"
+ },
+ "index.k0154": {
+  "es": "Que nuestra adaptación sea la de Kurzban. Ubicamos algunas emociones por criterio propio",
+  "pt": "Que nossa adaptação seja a de Kurzban. Situamos algumas emoções por critério próprio",
+  "en": "That our adaptation is Kurzban’s. We placed some emotions by our own judgment"
+ },
+ "index.k0155": {
+  "es": "Tres hipótesis que tus datos pueden refutar",
+  "pt": "Três hipóteses que seus dados podem refutar",
+  "en": "Three hypotheses your data can refute"
+ },
+ "index.k0156": {
+  "es": "Precisión y ajuste",
+  "pt": "Precisão e ajuste",
+  "en": "Precision and calibration"
+ },
+ "index.k0157": {
+  "es": "Quien nombra su afecto con más detalle reduce su error en las semanas siguientes más que quien solo marca agradable o desagradable",
+  "pt": "Quem nomeia seu afeto com mais detalhe reduz seu erro nas semanas seguintes mais do que quem só marca agradável ou desagradável",
+  "en": "People who name their affect in more detail reduce their error over the following weeks more than those who only mark pleasant or unpleasant"
+ },
+ "index.k0158": {
+  "es": "Ánimo y sesgo",
+  "pt": "Humor e viés",
+  "en": "Mood and bias"
+ },
+ "index.k0159": {
+  "es": "El afecto al iniciar predice la dirección del error: con ánimo agradable se tiende a sobrevalorar, con ánimo desagradable a infravalorar",
+  "pt": "O afeto ao iniciar prevê a direção do erro: com humor agradável se tende a superestimar, com humor desagradável a subestimar",
+  "en": "Affect at the start predicts the direction of the error: a pleasant mood tends toward overestimating, an unpleasant one toward underestimating"
+ },
+ "index.k0160": {
+  "es": "Niveles y retorno",
+  "pt": "Níveis e retorno",
+  "en": "Levels and return"
+ },
+ "index.k0161": {
+  "es": "Las acciones de niveles que más unen rinden más satisfacción por hora, pero con más varianza",
+  "pt": "As ações de níveis que mais unem rendem mais satisfação por hora, mas com mais variância",
+  "en": "Actions aimed at more integrating levels yield more satisfaction per hour, with more variance"
+ },
+ "index.k0162": {
+  "es": "Si alguna no se cumple con datos reales, la cambiamos. Dinos cuál te parece más débil",
+  "pt": "Se alguma não se cumprir com dados reais, a mudamos. Diga qual parece mais fraca",
+  "en": "If any of them fails on real data, we change it. Tell us which one looks weakest"
+ },
+ "index.k0163": {
+  "es": "Qué trae",
+  "pt": "O que traz",
+  "en": "What it includes"
+ },
+ "index.k0164": {
+  "es": "Funciones",
+  "pt": "Funções",
+  "en": "Features"
+ },
+ "index.k0165": {
+  "es": "emociones",
+  "pt": "emoções",
+  "en": "emotions"
+ },
+ "index.k0166": {
+  "es": "de base y 32 más específicas, paso a paso. Cada una con su función, «Úsala» y «Cuidado»",
+  "pt": "de base e 32 mais específicas, passo a passo. Cada uma com sua função, «Use-a» e «Cuidado»",
+  "en": "base feelings and 32 more specific ones, step by step. Each with its function, “Use it” and “Watch out”"
+ },
+ "index.k0167": {
+  "es": "Mapa de 8 áreas",
+  "pt": "Mapa de 8 áreas",
+  "en": "Map of 8 areas"
+ },
+ "index.k0168": {
+  "es": "Metas dentro de metas, con plazo y calendario",
+  "pt": "Metas dentro de metas, com prazo e calendário",
+  "en": "Goals within goals, with deadlines and a calendar"
+ },
+ "index.k0169": {
+  "es": "Plan ante obstáculos",
+  "pt": "Plano diante de obstáculos",
+  "en": "Obstacle plans"
+ },
+ "index.k0170": {
+  "es": "Acción ideal, por qué importa, obstáculo y plan «si pasa esto, hago aquello»",
+  "pt": "Ação ideal, por que importa, obstáculo e plano «se acontecer isto, faço aquilo»",
+  "en": "Ideal action, why it matters, obstacle, and an “if this happens, I do that” plan"
+ },
+ "index.k0171": {
+  "es": "Tiempo honesto",
+  "pt": "Tempo honesto",
+  "en": "Honest time"
+ },
+ "index.k0172": {
+  "es": "El retorno descuenta las horas de otras acciones que se superpusieron",
+  "pt": "O retorno desconta as horas de outras ações que se sobrepuseram",
+  "en": "The return subtracts hours from other actions that overlapped"
+ },
+ "index.k0173": {
+  "es": "Rutinas",
+  "pt": "Rotinas",
+  "en": "Routines"
+ },
+ "index.k0174": {
+  "es": "Inversiones que se repiten y van a tu calendario",
+  "pt": "Investimentos que se repetem e vão para seu calendário",
+  "en": "Investments that repeat and go to your calendar"
+ },
+ "index.k0175": {
+  "es": "fuentes",
+  "pt": "fontes",
+  "en": "sources"
+ },
+ "index.k0176": {
+  "es": "Cada idea de la app enlaza al estudio o libro del que sale",
+  "pt": "Cada ideia do app leva ao estudo ou livro de onde vem",
+  "en": "Each idea in the app links to the study or book it comes from"
+ },
+ "index.k0177": {
+  "es": "Dos idiomas",
+  "pt": "Dois idiomas",
+  "en": "Two languages"
+ },
+ "index.k0178": {
+  "es": "La app está en español y portugués",
+  "pt": "O app está em espanhol e português",
+  "en": "The app is in Spanish and Portuguese"
+ },
+ "index.k0179": {
+  "es": "En tu celular",
+  "pt": "No seu celular",
+  "en": "On your phone"
+ },
+ "index.k0180": {
+  "es": "Se abre en el navegador y se puede instalar como",
+  "pt": "Abre no navegador e pode ser instalado como",
+  "en": "Opens in the browser and installs as an"
+ },
+ "index.k0181": {
+  "es": "Por qué existe",
+  "pt": "Por que existe",
+  "en": "Why it exists"
+ },
+ "index.k0182": {
+  "es": "Equivocarme menos, de raíz",
+  "pt": "Errar menos, pela raiz",
+  "en": "Being wrong less, at the root"
+ },
+ "index.k0183": {
+  "es": "f1838f4922",
+  "pt": "6799fc923f",
+  "en": "f1838f4922"
+ },
+ "index.k0184": {
+  "es": "de la historia que trae la app. Es un personaje ilustrativo, no un caso real",
+  "pt": "da história que vem no app. É uma personagem ilustrativa, não um caso real",
+  "en": "from the story inside the app. She is an illustrative character, not a real case"
+ },
+ "index.k0185": {
+  "es": "6ccde6b202",
+  "pt": "1daa5e300d",
+  "en": "6ccde6b202"
+ },
+ "index.k0186": {
+  "es": "Busco formas de equivocarme menos, y no de a poco: de raíz. Probé muchas apps y modelos. Hay mucho bueno y mucho que promete, pero les faltaba una línea que uniera los conceptos",
+  "pt": "Busco formas de errar menos, e não aos poucos: pela raiz. Testei muitos apps e modelos. Há muita coisa boa e muita que promete, mas faltava uma linha que unisse os conceitos",
+  "en": "I am looking for ways to be wrong less, and not bit by bit: at the root. I tried many apps and models. There is a lot that is good and a lot that promises much, but they lacked a line tying the concepts together"
+ },
+ "index.k0187": {
+  "es": "La app ESTIMAT es mi intento de unirlos. De la teoría de sistemas toma la forma de dividir lo que quiero en partes. De la cibernética, el ciclo que mide cuánto me equivoco y busca corregirlo",
+  "pt": "O app ESTIMAT é minha tentativa de uni-los. Da teoria de sistemas, toma a forma de dividir o que quero em partes. Da cibernética, o ciclo que mede quanto eu erro e busca corrigi-lo",
+  "en": "The ESTIMAT app is my attempt to tie them together. From systems theory it takes a way to split what I want into parts. From cybernetics, the loop that measures how wrong I am and tries to correct it"
+ },
+ "index.k0188": {
+  "es": "Así la emoción deja de ser ruido. Pasa a ser un dato que puedo ajustar",
+  "pt": "Assim a emoção deixa de ser ruído. Passa a ser um dado que posso ajustar",
+  "en": "This way emotion stops being noise. It becomes data I can calibrate"
+ },
+ "index.k0189": {
+  "es": "Lo que más me importa viene después. Quiero llevar una versión más liviana, con un narrador que cuenta una historia, a adolescentes y niños de barrios donde el delito los busca temprano. Creo que conocerse es donde más podemos actuar. Es una apuesta, y la voy a medir como mido todo lo demás",
+  "pt": "O que mais me importa vem depois. Quero levar uma versão mais leve, com um narrador que conta uma história, a adolescentes e crianças de bairros onde o crime os procura cedo. Acredito que se conhecer é onde mais podemos agir. É uma aposta, e vou medi-la como meço todo o resto",
+  "en": "What matters most to me comes next. I want to bring a lighter version, with a narrator telling a story, to teenagers and children in neighborhoods where crime comes looking for them early. I believe self-knowledge is where we can act the most. It is a bet, and I will measure it the way I measure everything else"
+ },
+ "index.k0190": {
+  "es": "El creador de la app ESTIMAT, neurocientífico en Argentina. Trabaja con personas privadas de libertad y con una ONG en Brasil",
+  "pt": "O criador do app ESTIMAT, neurocientista na Argentina. Trabalha com pessoas privadas de liberdade e com uma ONG no Brasil",
+  "en": "The creator of the ESTIMAT app, a neuroscientist in Argentina. He works with incarcerated people and with an NGO in Brazil"
+ },
+ "index.k0191": {
+  "es": "Mis datos",
+  "pt": "Meus dados",
+  "en": "My data"
+ },
+ "index.k0192": {
+  "es": "Lo que vi en cuatro semanas",
+  "pt": "O que vi em quatro semanas",
+  "en": "What I saw in four weeks"
+ },
+ "index.k0193": {
+  "es": "acciones con predicción y resultado, entre el 18 de octubre y el 16 de noviembre de 2026. Comparé las primeras 30 con las últimas",
+  "pt": "ações com previsão e resultado, entre 18 de outubro e 16 de novembro de 2026. Comparei as primeiras 30 com as últimas",
+  "en": "actions with a prediction and an outcome, from October 18 to November 16, 2026. I compared the first 30 with the last"
+ },
+ "index.k0194": {
+  "es": "cf0a0ff795",
+  "pt": "a447fe08a3",
+  "en": "cf0a0ff795"
+ },
+ "index.k0195": {
+  "es": "Evolución · Promedios, con mis datos reales: lo que predije contra lo que obtuve, y mis afectos más registrados",
+  "pt": "Evolução · Médias, com meus dados reais: o que previ contra o que obtive, e meus afetos mais registrados",
+  "en": "Evolution · Averages, with my real data: what I predicted against what I got, and my most logged feelings"
+ },
+ "index.k0196": {
+  "es": "95beb8ef6c",
+  "pt": "7f952720c3",
+  "en": "95beb8ef6c"
+ },
+ "index.k0197": {
+  "es": "Fuentes de esta página",
+  "pt": "Fontes desta página",
+  "en": "Sources for this page"
+ },
+ "index.k0198": {
+  "es": "y",
+  "pt": "e",
+  "en": "&amp;"
+ },
+ "index.k0199": {
+  "es": "y Loewenstein, G. (1999). Hedonic adaptation. In Kahneman, Diener y Schwarz (eds.), <i>Well-being: the foundations of hedonic psychology</i>. Russell Sage Foundation.</li>\n<li>Buehler, R., Griffin, D. y",
+  "pt": "e Loewenstein, G. (1999). Hedonic adaptation. In Kahneman, Diener e Schwarz (eds.), <i>Well-being: the foundations of hedonic psychology</i>. Russell Sage Foundation.</li>\n<li>Buehler, R., Griffin, D. e",
+  "en": "&amp; Loewenstein, G. (1999). Hedonic adaptation. In Kahneman, Diener &amp; Schwarz (eds.), <i>Well-being: the foundations of hedonic psychology</i>. Russell Sage Foundation.</li>\n<li>Buehler, R., Griffin, D. &amp;"
+ },
+ "index.k0200": {
+  "es": "y Phillips, L. D. (1982). Calibration of probabilities: the state of the art to 1980. In Kahneman, Slovic y",
+  "pt": "e Phillips, L. D. (1982). Calibration of probabilities: the state of the art to 1980. In Kahneman, Slovic e",
+  "en": "&amp; Phillips, L. D. (1982). Calibration of probabilities: the state of the art to 1980. In Kahneman, Slovic &amp;"
+ },
+ "index.k0201": {
+  "es": "La app trae 35 fuentes más, cada una junto a la idea que respalda",
+  "pt": "O app traz mais 35 fontes, cada uma junto à ideia que sustenta",
+  "en": "The app includes 35 more sources, each next to the idea it supports"
+ },
+ "index.k0202": {
+  "es": "Pruébala y dinos dónde falla",
+  "pt": "Experimente e diga onde falha",
+  "en": "Try it and tell us where it fails"
+ },
+ "index.k0203": {
+  "es": "Buscamos críticas más que elogios. Cuéntanos qué hipótesis ves débil, qué emoción está mal ubicada o qué fuente falta",
+  "pt": "Buscamos críticas mais que elogios. Conte qual hipótese parece fraca, qual emoção está mal colocada ou qual fonte falta",
+  "en": "We want criticism more than praise. Tell us which hypothesis looks weak, which emotion is misplaced, or which source is missing"
+ },
+ "index.k0204": {
+  "es": "Escribir por",
+  "pt": "Escrever pelo",
+  "en": "Write on"
+ },
+ "index.k0205": {
+  "es": "O por correo",
+  "pt": "Ou por e-mail",
+  "en": "Or by email"
+ },
+ "index.k0206": {
+  "es": "Copiar",
+  "pt": "Copiar",
+  "en": "Copy"
+ },
+ "index.k0207": {
+  "es": "Gracias a Cleberton, quien más me ayudó en esta versión",
+  "pt": "Obrigado ao Cleberton, quem mais me ajudou nesta versão",
+  "en": "Thanks to Cleberton, who helped me most with this version"
+ },
+ "index.k0208": {
+  "es": "Textos e imágenes bajo licencia",
+  "pt": "Textos e imagens sob licença",
+  "en": "Text and images under"
+ },
+ "index.k0209": {
+  "es": "deed.es",
+  "pt": "deed.pt_BR",
+  "en": ""
+ },
+ "index.k0210": {
+  "es": "puedes compartir y adaptar, sin fines comerciales, citando la fuente",
+  "pt": "você pode compartilhar e adaptar, sem fins comerciais, citando a fonte",
+  "en": "you may share and adapt, non-commercially, with attribution"
+ },
+ "index.k0211": {
+  "es": "integrador",
+  "pt": "integrador",
+  "en": "integrating"
+ },
+ "index.k0212": {
+  "es": "¿Tiene que ver con otras personas o con cómo va tu vida",
+  "pt": "Tem a ver com outras pessoas ou com como vai sua vida",
+  "en": "Is it about other people or about how your life is going"
+ },
+ "index.k0213": {
+  "es": "ponderado",
+  "pt": "ponderado",
+  "en": "weighting"
+ },
+ "index.k0214": {
+  "es": "¿Algo te amenaza o te atrae",
+  "pt": "Algo te ameaça ou te atrai",
+  "en": "Does something threaten or attract you"
+ },
+ "index.k0215": {
+  "es": "predictivo",
+  "pt": "preditivo",
+  "en": "predictive"
+ },
+ "index.k0216": {
+  "es": "¿Tiene que ver con atender, entender o anticipar",
+  "pt": "Tem a ver com atender, entender ou antecipar",
+  "en": "Is it about attending, understanding, or anticipating"
+ },
+ "index.k0217": {
+  "es": "reactivo",
+  "pt": "reativo",
+  "en": "reactive"
+ },
+ "index.k0218": {
+  "es": "¿Es una necesidad o una alarma del cuerpo",
+  "pt": "É uma necessidade ou um alarme do corpo",
+  "en": "Is it a need or an alarm of the body"
+ },
+ "index.k0219": {
+  "es": "Falta de aire",
+  "pt": "Falta de ar",
+  "en": "The Need to Breathe"
+ },
+ "index.k0220": {
+  "es": "Señal urgente de que falta oxígeno. Empuja a respirar ya",
+  "pt": "Sinal urgente de que falta oxigênio. Empurra a respirar já",
+  "en": "Urgent signal that oxygen is low. Pushes you to breathe now"
+ },
+ "index.k0221": {
+  "es": "Para y respira lento",
+  "pt": "Pare e respire devagar",
+  "en": "Stop and breathe slowly"
+ },
+ "index.k0222": {
+  "es": "atiende eso primero",
+  "pt": "cuide disso primeiro",
+  "en": "deal with this first"
+ },
+ "index.k0223": {
+  "es": "El pánico la amplifica",
+  "pt": "O pânico a amplifica",
+  "en": "Panic amplifies it"
+ },
+ "index.k0224": {
+  "es": "si persiste, busca atención médica",
+  "pt": "se persistir, procure atendimento médico",
+  "en": "if it persists, seek medical care"
+ },
+ "index.k0225": {
+  "es": "Hambre",
+  "pt": "Fome",
+  "en": "Hungry"
+ },
+ "index.k0226": {
+  "es": "Mide cuánta energía le falta al cuerpo. Empuja a comer",
+  "pt": "Mede quanta energia falta ao corpo. Empurra a comer",
+  "en": "Measures how much energy the body lacks. Pushes you to eat"
+ },
+ "index.k0227": {
+  "es": "Come antes de decidir algo importante",
+  "pt": "Coma antes de decidir algo importante",
+  "en": "Eat before deciding anything important"
+ },
+ "index.k0228": {
+  "es": "Con hambre juzgas peor y te impacientas más",
+  "pt": "Com fome você julga pior e fica mais impaciente",
+  "en": "Hungry, you judge worse and grow impatient"
+ },
+ "index.k0229": {
+  "es": "Lleno",
+  "pt": "Cheio",
+  "en": "Full"
+ },
+ "index.k0230": {
+  "es": "Avisa que ya comiste suficiente. Frena la ingesta",
+  "pt": "Avisa que você já comeu o suficiente. Freia a ingestão",
+  "en": "Signals you have eaten enough. Stops intake"
+ },
+ "index.k0231": {
+  "es": "Para de comer y registra cuánto alcanzó",
+  "pt": "Pare de comer e registre quanto bastou",
+  "en": "Stop eating and note how much was enough"
+ },
+ "index.k0232": {
+  "es": "Ignorarla lleva a comer de más por costumbre",
+  "pt": "Ignorá-la leva a comer demais por hábito",
+  "en": "Ignoring it leads to overeating out of habit"
+ },
+ "index.k0233": {
+  "es": "Sed",
+  "pt": "Sede",
+  "en": "Thirsty"
+ },
+ "index.k0234": {
+  "es": "Mide cuánta agua le falta al cuerpo. Empuja a beber",
+  "pt": "Mede quanta água falta ao corpo. Empurra a beber",
+  "en": "Measures how much water the body lacks. Pushes you to drink"
+ },
+ "index.k0235": {
+  "es": "Bebe agua",
+  "pt": "Beba água",
+  "en": "Drink water"
+ },
+ "index.k0236": {
+  "es": "la sed leve ya baja la atención",
+  "pt": "a sede leve já baixa a atenção",
+  "en": "mild thirst already lowers attention"
+ },
+ "index.k0237": {
+  "es": "Se confunde con hambre o cansancio",
+  "pt": "Confunde-se com fome ou cansaço",
+  "en": "It is easily confused with hunger or tiredness"
+ },
+ "index.k0238": {
+  "es": "Gases",
+  "pt": "Gases",
+  "en": "Gassy"
+ },
+ "index.k0239": {
+  "es": "Avisa presión en el intestino. Empuja a liberarla",
+  "pt": "Avisa pressão no intestino. Empurra a liberá-la",
+  "en": "Signals pressure in the gut. Pushes you to release it"
+ },
+ "index.k0240": {
+  "es": "Atiende la incomodidad antes de concentrarte",
+  "pt": "Cuide do desconforto antes de se concentrar",
+  "en": "Deal with the discomfort before focusing"
+ },
+ "index.k0241": {
+  "es": "La vergüenza puede hacer que la aguantes de más",
+  "pt": "A vergonha pode fazer você segurar demais",
+  "en": "Embarrassment can make you hold it too long"
+ },
+ "index.k0242": {
+  "es": "Ganas de defecar",
+  "pt": "Vontade de evacuar",
+  "en": "The Need to Poop"
+ },
+ "index.k0243": {
+  "es": "Avisa que el intestino debe vaciarse. Empuja a buscar un lugar",
+  "pt": "Avisa que o intestino precisa esvaziar. Empurra a buscar um lugar",
+  "en": "Signals the bowel needs emptying. Pushes you to find a place"
+ },
+ "index.k0244": {
+  "es": "Haz una pausa y vuelve con la mente libre",
+  "pt": "Faça uma pausa e volte com a mente livre",
+  "en": "Take a break and come back with a clear mind"
+ },
+ "index.k0245": {
+  "es": "Postergarla resta foco sin que lo notes",
+  "pt": "Adiá-la tira o foco sem você notar",
+  "en": "Postponing it drains focus without you noticing"
+ },
+ "index.k0246": {
+  "es": "Ganas de orinar",
+  "pt": "Vontade de urinar",
+  "en": "The Need to Pee"
+ },
+ "index.k0247": {
+  "es": "Avisa que la vejiga está llena. Empuja a vaciarla",
+  "pt": "Avisa que a bexiga está cheia. Empurra a esvaziá-la",
+  "en": "Signals a full bladder. Pushes you to empty it"
+ },
+ "index.k0248": {
+  "es": "Pausa breve: la urgencia distrae más de lo que crees",
+  "pt": "Pausa breve: a urgência distrai mais do que você pensa",
+  "en": "Short break: the urge distracts more than you think"
+ },
+ "index.k0249": {
+  "es": "Aguantar hace sentir la tarea más larga",
+  "pt": "Segurar faz a tarefa parecer mais longa",
+  "en": "Holding it makes the task feel longer"
+ },
+ "index.k0250": {
+  "es": "Sueño",
+  "pt": "Sono",
+  "en": "Sleepy"
+ },
+ "index.k0251": {
+  "es": "Mide cuánto descanso necesita el cerebro. Empuja a dormir",
+  "pt": "Mede quanto descanso o cérebro precisa. Empurra a dormir",
+  "en": "Measures how much rest the brain needs. Pushes you to sleep"
+ },
+ "index.k0252": {
+  "es": "Duerme o posterga decisiones grandes",
+  "pt": "Durma ou adie decisões grandes",
+  "en": "Sleep, or postpone big decisions"
+ },
+ "index.k0253": {
+  "es": "Con sueño todo parece más difícil y negativo",
+  "pt": "Com sono tudo parece mais difícil e negativo",
+  "en": "When sleepy, everything looks harder and darker"
+ },
+ "index.k0254": {
+  "es": "Náusea",
+  "pt": "Náusea",
+  "en": "Nauseous"
+ },
+ "index.k0255": {
+  "es": "Alarma ante algo tóxico ingerido. Empuja a expulsarlo y a evitarlo después",
+  "pt": "Alarme diante de algo tóxico ingerido. Empurra a expulsá-lo e a evitá-lo depois",
+  "en": "Alarm about something toxic you ingested. Pushes you to expel it and avoid it later"
+ },
+ "index.k0256": {
+  "es": "Aléjate de lo que la causó y anota qué fue",
+  "pt": "Afaste-se do que a causou e anote o que foi",
+  "en": "Move away from the cause and note what it was"
+ },
+ "index.k0257": {
+  "es": "Puede asociar un lugar o comida inocente al malestar",
+  "pt": "Pode associar um lugar ou comida inocente ao mal-estar",
+  "en": "It can tie an innocent place or food to the sickness"
+ },
+ "index.k0258": {
+  "es": "Ganas de estornudar",
+  "pt": "Vontade de espirrar",
+  "en": "The Urge to Sneeze"
+ },
+ "index.k0259": {
+  "es": "Limpia la nariz de partículas irritantes",
+  "pt": "Limpa o nariz de partículas irritantes",
+  "en": "Clears irritating particles from the nose"
+ },
+ "index.k0260": {
+  "es": "Deja que limpie; luego vuelve a lo tuyo",
+  "pt": "Deixe limpar; depois volte ao que fazia",
+  "en": "Let it clear your nose, then get back to it"
+ },
+ "index.k0261": {
+  "es": "Si se repite, puede ser alergia, no la tarea",
+  "pt": "Se repetir, pode ser alergia, não a tarefa",
+  "en": "If it keeps happening, it may be allergy, not the task"
+ },
+ "index.k0262": {
+  "es": "Ganas de toser",
+  "pt": "Vontade de tossir",
+  "en": "The Urge to Cough"
+ },
+ "index.k0263": {
+  "es": "Limpia las vías respiratorias",
+  "pt": "Limpa as vias respiratórias",
+  "en": "Clears the airways"
+ },
+ "index.k0264": {
+  "es": "Aléjate del irritante y bebe agua",
+  "pt": "Afaste-se do irritante e beba água",
+  "en": "Move away from the irritant and drink water"
+ },
+ "index.k0265": {
+  "es": "Si dura semanas, consúltalo",
+  "pt": "Se durar semanas, consulte alguém",
+  "en": "If it lasts weeks, get it checked"
+ },
+ "index.k0266": {
+  "es": "Mareo",
+  "pt": "Tontura",
+  "en": "Dizzy"
+ },
+ "index.k0267": {
+  "es": "Avisa que el equilibrio falla. Empuja a quedarte quieto",
+  "pt": "Avisa que o equilíbrio falha. Empurra a ficar parado",
+  "en": "Signals failing balance. Pushes you to stay still"
+ },
+ "index.k0268": {
+  "es": "Siéntate y espera antes de moverte",
+  "pt": "Sente-se e espere antes de se mover",
+  "en": "Sit down and wait before moving"
+ },
+ "index.k0269": {
+  "es": "Puede venir de hambre, sed o ansiedad",
+  "pt": "Pode vir de fome, sede ou ansiedade",
+  "en": "It can come from hunger, thirst, or anxiety"
+ },
+ "index.k0270": {
+  "es": "Fatiga",
+  "pt": "Fadiga",
+  "en": "Fatigued"
+ },
+ "index.k0271": {
+  "es": "Mide el costo de seguir esforzándote. Empuja a parar o a cambiar de tarea",
+  "pt": "Mede o custo de continuar se esforçando. Empurra a parar ou a mudar de tarefa",
+  "en": "Measures the cost of continuing to push. Pushes you to stop or switch tasks"
+ },
+ "index.k0272": {
+  "es": "Cambia de tarea o descansa unos minutos",
+  "pt": "Mude de tarefa ou descanse alguns minutos",
+  "en": "Switch tasks or rest for a few minutes"
+ },
+ "index.k0273": {
+  "es": "Hace que todo parezca más caro de lo que es",
+  "pt": "Faz tudo parecer mais caro do que é",
+  "en": "It makes everything look more costly than it is"
+ },
+ "index.k0274": {
+  "es": "Dolor",
+  "pt": "Dor",
+  "en": "Pain"
+ },
+ "index.k0275": {
+  "es": "Señala daño en el cuerpo. Empuja a proteger esa zona",
+  "pt": "Sinaliza dano no corpo. Empurra a proteger essa área",
+  "en": "Signals damage to the body. Pushes you to protect that area"
+ },
+ "index.k0276": {
+  "es": "Protege la zona y registra cuándo aparece",
+  "pt": "Proteja a região e registre quando aparece",
+  "en": "Protect the area and note when it shows up"
+ },
+ "index.k0277": {
+  "es": "El dolor crónico infla el costo previsto de actuar",
+  "pt": "A dor crônica infla o custo previsto de agir",
+  "en": "Chronic pain inflates the predicted cost of acting"
+ },
+ "index.k0278": {
+  "es": "Asco",
+  "pt": "Nojo",
+  "en": "Disgusted"
+ },
+ "index.k0279": {
+  "es": "Protege de contaminación y enfermedad. Empuja a alejarte",
+  "pt": "Protege de contaminação e doença. Empurra a se afastar",
+  "en": "Protects against contamination and disease. Pushes you away"
+ },
+ "index.k0280": {
+  "es": "Úsalo para evitar lo contaminado",
+  "pt": "Use-o para evitar o contaminado",
+  "en": "Use it to avoid what is contaminated"
+ },
+ "index.k0281": {
+  "es": "Se extiende a personas o ideas y lleva a excluir",
+  "pt": "Estende-se a pessoas ou ideias e leva a excluir",
+  "en": "It spreads to people or ideas and leads to exclusion"
+ },
+ "index.k0282": {
+  "es": "Picazón",
+  "pt": "Coceira",
+  "en": "Itchy"
+ },
+ "index.k0283": {
+  "es": "Avisa algo sobre la piel, como un insecto. Empuja a rascar",
+  "pt": "Avisa algo sobre a pele, como um inseto. Empurra a coçar",
+  "en": "Signals something on the skin, like an insect. Pushes you to scratch"
+ },
+ "index.k0284": {
+  "es": "Revisa qué la causa antes de rascar",
+  "pt": "Veja o que a causa antes de coçar",
+  "en": "Check the cause before scratching"
+ },
+ "index.k0285": {
+  "es": "Rascar alivia ahora y empeora después",
+  "pt": "Coçar alivia agora e piora depois",
+  "en": "Scratching relieves now and worsens later"
+ },
+ "index.k0286": {
+  "es": "Cosquillas",
+  "pt": "Cócegas",
+  "en": "Tickled"
+ },
+ "index.k0287": {
+  "es": "Juego de contacto con alguien de confianza. También defiende zonas sensibles",
+  "pt": "Jogo de contato com alguém de confiança. Também defende áreas sensíveis",
+  "en": "Contact play with someone you trust. Also defends sensitive areas"
+ },
+ "index.k0288": {
+  "es": "Juega con quien confías",
+  "pt": "Brinque com quem você confia",
+  "en": "Play with someone you trust"
+ },
+ "index.k0289": {
+  "es": "une",
+  "pt": "une",
+  "en": "it bonds"
+ },
+ "index.k0290": {
+  "es": "Sin permiso deja de ser juego",
+  "pt": "Sem permissão deixa de ser brincadeira",
+  "en": "Without permission it stops being play"
+ },
+ "index.k0291": {
+  "es": "Sobreestimulación",
+  "pt": "Superestimulação",
+  "en": "Over-Stimulated"
+ },
+ "index.k0292": {
+  "es": "Demasiados estímulos a la vez. Empuja a reducirlos o a alejarte",
+  "pt": "Estímulos demais ao mesmo tempo. Empurra a reduzi-los ou a se afastar",
+  "en": "Too many stimuli at once. Pushes you to reduce them or move away"
+ },
+ "index.k0293": {
+  "es": "Baja estímulos: menos ruido, menos pantallas",
+  "pt": "Reduza estímulos: menos ruído, menos telas",
+  "en": "Cut stimuli: less noise, fewer screens"
+ },
+ "index.k0294": {
+  "es": "Hace que cualquier tarea parezca imposible",
+  "pt": "Faz qualquer tarefa parecer impossível",
+  "en": "It makes any task look impossible"
+ },
+ "index.k0295": {
+  "es": "Calor y frío",
+  "pt": "Calor e frio",
+  "en": "Too Hot & Too Cold"
+ },
+ "index.k0296": {
+  "es": "Avisa que la temperatura del cuerpo se aleja de lo seguro. Empuja a abrigarte o refrescarte",
+  "pt": "Avisa que a temperatura do corpo se afasta do seguro. Empurra a se agasalhar ou se refrescar",
+  "en": "Signals body temperature drifting from safe. Pushes you to warm up or cool down"
+ },
+ "index.k0297": {
+  "es": "Abrígate o refréscate antes de seguir",
+  "pt": "Agasalhe-se ou refresque-se antes de seguir",
+  "en": "Warm up or cool down before going on"
+ },
+ "index.k0298": {
+  "es": "El calor sube la irritación y baja la paciencia",
+  "pt": "O calor aumenta a irritação e baixa a paciência",
+  "en": "Heat raises irritation and lowers patience"
+ },
+ "index.k0299": {
+  "es": "Miedo",
+  "pt": "Medo",
+  "en": "Afraid"
+ },
+ "index.k0300": {
+  "es": "Responde a un peligro presente. Prepara para huir, quedarte quieto o defenderte",
+  "pt": "Responde a um perigo presente. Prepara para fugir, ficar imóvel ou se defender",
+  "en": "Responds to present danger. Prepares you to flee, freeze, or fight"
+ },
+ "index.k0301": {
+  "es": "Un momento para conocerte: ¿el peligro está aquí ahora? Luego, actúa según la respuesta",
+  "pt": "Um momento para se conhecer: o perigo está aqui agora? Depois, aja conforme a resposta",
+  "en": "Ask whether the danger is here right now"
+ },
+ "index.k0302": {
+  "es": "Hace que todo riesgo parezca mayor",
+  "pt": "Faz todo risco parecer maior",
+  "en": "It makes every risk look bigger"
+ },
+ "index.k0303": {
+  "es": "Ansiedad",
+  "pt": "Ansiedade",
+  "en": "Anxious"
+ },
+ "index.k0304": {
+  "es": "Anticipa un peligro posible. Mantiene la alerta y empuja a prepararte",
+  "pt": "Antecipa um perigo possível. Mantém o alerta e empurra a se preparar",
+  "en": "Anticipates possible danger. Keeps you alert and pushes you to prepare"
+ },
+ "index.k0305": {
+  "es": "Un momento para conocerte: ¿qué temes que pase, y cuán probable es? Luego, prepara un plan",
+  "pt": "Um momento para se conhecer: o que você teme que aconteça, e quão provável é? Depois, prepare um plano",
+  "en": "Separate the probable from the merely possible, and make a plan"
+ },
+ "index.k0306": {
+  "es": "Infla la probabilidad de lo malo y lleva a evitar",
+  "pt": "Infla a probabilidade do ruim e leva a evitar",
+  "en": "It inflates the odds of bad outcomes and pushes avoidance"
+ },
+ "index.k0307": {
+  "es": "Placer sensorial",
+  "pt": "Prazer sensorial",
+  "en": "Sensory Pleasures"
+ },
+ "index.k0308": {
+  "es": "Marca algo bueno para el cuerpo, como comida o calor. Empuja a buscarlo",
+  "pt": "Marca algo bom para o corpo, como comida ou calor. Empurra a buscá-lo",
+  "en": "Marks something good for the body, like food or warmth. Pushes you to seek it"
+ },
+ "index.k0309": {
+  "es": "Un momento para mirar afuera: ¿qué lo produjo? Luego, disfrútalo sin apuro",
+  "pt": "Um momento para olhar para fora: o que o produziu? Depois, aproveite sem pressa",
+  "en": "Enjoy it and notice what caused it"
+ },
+ "index.k0310": {
+  "es": "Empuja a repetir aunque ya no convenga",
+  "pt": "Empurra a repetir mesmo quando já não convém",
+  "en": "It pushes you to repeat even when it no longer helps"
+ },
+ "index.k0311": {
+  "es": "Placer estético",
+  "pt": "Prazer estético",
+  "en": "Aesthetic Pleasures"
+ },
+ "index.k0312": {
+  "es": "Atrae hacia formas, lugares y sonidos que suelen indicar algo valioso",
+  "pt": "Atrai para formas, lugares e sons que costumam indicar algo valioso",
+  "en": "Draws you to forms, places, and sounds that tend to signal something valuable"
+ },
+ "index.k0313": {
+  "es": "Un momento para mirar afuera: ¿qué te atrae de esto? Luego, busca lugares que te lo den",
+  "pt": "Um momento para olhar para fora: o que te atrai nisso? Depois, busque lugares que te deem isso",
+  "en": "Seek places and things that give it to you"
+ },
+ "index.k0314": {
+  "es": "Lo bello parece mejor en todo, como efecto halo",
+  "pt": "O belo parece melhor em tudo, como efeito halo",
+  "en": "Beauty makes everything look better: the halo effect"
+ },
+ "index.k0315": {
+  "es": "Picante",
+  "pt": "Ardência (picante)",
+  "en": "Piquancy (Spiciness)"
+ },
+ "index.k0316": {
+  "es": "Un dolor buscado: un riesgo controlado que se vuelve placer",
+  "pt": "Uma dor buscada: um risco controlado que vira prazer",
+  "en": "A sought-after pain: controlled risk turned into pleasure"
+ },
+ "index.k0317": {
+  "es": "Un momento para mirar afuera: ¿qué riesgo te da placer? Luego, disfrútalo con medida",
+  "pt": "Um momento para olhar para fora: que risco te dá prazer? Depois, aproveite com medida",
+  "en": "Enjoy the controlled risk"
+ },
+ "index.k0318": {
+  "es": "Lleva a subir la dosis para sentir lo mismo",
+  "pt": "Leva a aumentar a dose para sentir o mesmo",
+  "en": "It pushes you to raise the dose to feel the same"
+ },
+ "index.k0319": {
+  "es": "Diversión y entusiasmo",
+  "pt": "Diversão e entusiasmo",
+  "en": "Fun & Excitement"
+ },
+ "index.k0320": {
+  "es": "Empuja a jugar y explorar. Así se practican habilidades sin riesgo",
+  "pt": "Empurra a brincar e explorar. Assim se praticam habilidades sem risco",
+  "en": "Pushes you to play and explore. That is how skills get practiced without risk"
+ },
+ "index.k0321": {
+  "es": "Un momento para mirar afuera: ¿qué te entusiasma de esto? Luego, explora jugando",
+  "pt": "Um momento para olhar para fora: o que te entusiasma nisso? Depois, explore brincando",
+  "en": "Explore and learn by playing"
+ },
+ "index.k0322": {
+  "es": "Infla las expectativas: predices más de lo que obtendrás",
+  "pt": "Infla as expectativas: você prevê mais do que vai obter",
+  "en": "It inflates expectations: you predict more than you will get"
+ },
+ "index.k0323": {
+  "es": "Orgasmo",
+  "pt": "Orgasmo",
+  "en": "Orgasm"
+ },
+ "index.k0324": {
+  "es": "Recompensa intensa del sexo. Refuerza volver a buscarlo",
+  "pt": "Recompensa intensa do sexo. Reforça voltar a buscá-lo",
+  "en": "Intense reward of sex. Reinforces seeking it again"
+ },
+ "index.k0325": {
+  "es": "Un momento para mirar afuera: ¿qué te dio placer, y con quién? Luego, cuida el consentimiento",
+  "pt": "Um momento para olhar para fora: o que te deu prazer, e com quem? Depois, cuide do consentimento",
+  "en": "Enjoy it with care and consent"
+ },
+ "index.k0326": {
+  "es": "Su recompensa puede pesar más que otras metas",
+  "pt": "Sua recompensa pode pesar mais que outras metas",
+  "en": "Its reward can outweigh other goals"
+ },
+ "index.k0327": {
+  "es": "Amor romántico",
+  "pt": "Amor romântico",
+  "en": "Love (Romantic)"
+ },
+ "index.k0328": {
+  "es": "Une a una pareja y sostiene el compromiso en el tiempo",
+  "pt": "Une um casal e sustenta o compromisso no tempo",
+  "en": "Bonds a couple and sustains commitment over time"
+ },
+ "index.k0329": {
+  "es": "Un momento para mirar afuera: ¿qué valoras de esta persona? Luego, comparte planes con ella",
+  "pt": "Um momento para olhar para fora: o que você valoriza nessa pessoa? Depois, compartilhe planos com ela",
+  "en": "Care for the bond and share plans"
+ },
+ "index.k0330": {
+  "es": "Idealiza al otro y nubla señales de alerta",
+  "pt": "Idealiza o outro e esconde sinais de alerta",
+  "en": "It idealizes the other and hides warning signs"
+ },
+ "index.k0331": {
+  "es": "Amor familiar",
+  "pt": "Amor familiar",
+  "en": "Love (Family)"
+ },
+ "index.k0332": {
+  "es": "Empuja a cuidar y proteger a los tuyos",
+  "pt": "Empurra a cuidar e proteger os seus",
+  "en": "Pushes you to care for and protect your own"
+ },
+ "index.k0333": {
+  "es": "Un momento para mirar afuera: ¿a quién quieres cuidar, y cómo te cuidas tú? Luego, pide ayuda si hace falta",
+  "pt": "Um momento para olhar para fora: de quem você quer cuidar, e como você cuida de si? Depois, peça ajuda se precisar",
+  "en": "Care for your people, and ask for help when needed"
+ },
+ "index.k0334": {
+  "es": "Puede llevarte a descuidarte a ti",
+  "pt": "Pode levar você a se descuidar",
+  "en": "It can lead you to neglect yourself"
+ },
+ "index.k0335": {
+  "es": "Duelo",
+  "pt": "Luto",
+  "en": "Grief"
+ },
+ "index.k0336": {
+  "es": "Dolor por perder a alguien valioso. Mide cuánto importaba ese vínculo",
+  "pt": "Dor por perder alguém valioso. Mede quanto aquele vínculo importava",
+  "en": "Pain from losing someone valuable. Measures how much the bond mattered"
+ },
+ "index.k0337": {
+  "es": "Un momento para conocerte: ¿qué te daba ese vínculo? Luego, date tiempo y apóyate en otros",
+  "pt": "Um momento para se conhecer: o que esse vínculo te dava? Depois, dê-se tempo e apoie-se em outros",
+  "en": "Give it time and lean on others"
+ },
+ "index.k0338": {
+  "es": "Hace que el futuro parezca vacío por un tiempo",
+  "pt": "Faz o futuro parecer vazio por um tempo",
+  "en": "It makes the future look empty for a while"
+ },
+ "index.k0339": {
+  "es": "Extrañar a alguien",
+  "pt": "Saudade",
+  "en": "Missing Someone"
+ },
+ "index.k0340": {
+  "es": "Empuja a buscar el reencuentro con alguien querido que no está",
+  "pt": "Empurra a buscar o reencontro com alguém querido que não está",
+  "en": "Pushes you to reunite with a loved one who is absent"
+ },
+ "index.k0341": {
+  "es": "Un momento para conocerte: ¿qué extrañas de esa persona? Luego, escríbele o llámala",
+  "pt": "Um momento para se conhecer: do que você sente falta nessa pessoa? Depois, escreva ou ligue para ela",
+  "en": "Write to or call that person"
+ },
+ "index.k0342": {
+  "es": "Idealiza el pasado y opaca el presente",
+  "pt": "Idealiza o passado e apaga o presente",
+  "en": "It idealizes the past and dims the present"
+ },
+ "index.k0343": {
+  "es": "Excitación sexual",
+  "pt": "Excitação sexual",
+  "en": "Aroused (Sexually)"
+ },
+ "index.k0344": {
+  "es": "Prepara el cuerpo y la atención para el sexo",
+  "pt": "Prepara o corpo e a atenção para o sexo",
+  "en": "Prepares body and attention for sex"
+ },
+ "index.k0345": {
+  "es": "Un momento para mirar afuera: ¿qué te atrae, y de quién? Luego, decide con calma",
+  "pt": "Um momento para olhar para fora: o que te atrai, e de quem? Depois, decida com calma",
+  "en": "Notice what attracts you, and to whom"
+ },
+ "index.k0346": {
+  "es": "Baja la percepción de riesgo",
+  "pt": "Baixa a percepção de risco",
+  "en": "It lowers your sense of risk"
+ },
+ "index.k0347": {
+  "es": "Simpatía de amistad",
+  "pt": "Simpatia de amizade",
+  "en": "Liking as a Friend"
+ },
+ "index.k0348": {
+  "es": "Marca a alguien como posible aliado. Empuja a acercarte",
+  "pt": "Marca alguém como possível aliado. Empurra a se aproximar",
+  "en": "Marks someone as a possible ally. Pushes you closer"
+ },
+ "index.k0349": {
+  "es": "Un momento para mirar afuera: ¿qué te atrae de esta persona? Luego, propón algo juntos",
+  "pt": "Um momento para olhar para fora: o que te atrai nessa pessoa? Depois, proponha algo juntos",
+  "en": "Get closer and suggest something together"
+ },
+ "index.k0350": {
+  "es": "Puede llevarte a confiar antes de conocer",
+  "pt": "Pode levar você a confiar antes de conhecer",
+  "en": "It can make you trust before you know them"
+ },
+ "index.k0351": {
+  "es": "Empatía",
+  "pt": "Empatia",
+  "en": "Empathy"
+ },
+ "index.k0352": {
+  "es": "Te hace sentir algo del estado del otro. Ayuda a entenderlo y anticiparlo",
+  "pt": "Faz você sentir algo do estado do outro. Ajuda a entendê-lo e antecipá-lo",
+  "en": "Lets you feel some of another's state. Helps you understand and anticipate them"
+ },
+ "index.k0353": {
+  "es": "Un momento para conocerte: ¿qué siente el otro, y qué sientes tú? Luego, úsala para entender",
+  "pt": "Um momento para se conhecer: o que o outro sente, e o que você sente? Depois, use-a para entender",
+  "en": "Use it to understand, not only to feel"
+ },
+ "index.k0354": {
+  "es": "Se agota y favorece a los cercanos o parecidos",
+  "pt": "Esgota e favorece os próximos ou parecidos",
+  "en": "It wears out and favors those close or similar to you"
+ },
+ "index.k0355": {
+  "es": "Compasión",
+  "pt": "Compaixão",
+  "en": "Compassion"
+ },
+ "index.k0356": {
+  "es": "Empuja a ayudar a alguien que sufre",
+  "pt": "Empurra a ajudar alguém que sofre",
+  "en": "Pushes you to help someone who suffers"
+ },
+ "index.k0357": {
+  "es": "Un momento para conocerte: ¿qué necesita quien sufre? Luego, ayuda con algo pequeño",
+  "pt": "Um momento para se conhecer: do que precisa quem sofre? Depois, ajude com algo pequeno",
+  "en": "Help with something small and concrete"
+ },
+ "index.k0358": {
+  "es": "Sin límites, te deja sin energía",
+  "pt": "Sem limites, deixa você sem energia",
+  "en": "Without limits it drains your energy"
+ },
+ "index.k0359": {
+  "es": "Gratitud",
+  "pt": "Gratidão",
+  "en": "Grateful"
+ },
+ "index.k0360": {
+  "es": "Registra un favor recibido. Empuja a devolverlo y fortalece el vínculo",
+  "pt": "Registra um favor recebido. Empurra a retribuí-lo e fortalece o vínculo",
+  "en": "Records a favor received. Pushes you to return it and strengthens the bond"
+ },
+ "index.k0361": {
+  "es": "Un momento para mirar afuera: ¿qué recibiste, y de quién? Luego, dilo en voz alta",
+  "pt": "Um momento para olhar para fora: o que você recebeu, e de quem? Depois, diga em voz alta",
+  "en": "Say it out loud or return the favor"
+ },
+ "index.k0362": {
+  "es": "Puede volverse deuda que pesa",
+  "pt": "Pode virar uma dívida que pesa",
+  "en": "It can turn into a debt that weighs on you"
+ },
+ "index.k0363": {
+  "es": "Placer de ayudar",
+  "pt": "Prazer de ajudar",
+  "en": "Pleasure From Helping"
+ },
+ "index.k0364": {
+  "es": "Recompensa ayudar. Así se construyen alianzas y reputación",
+  "pt": "Recompensa ajudar. Assim se constroem alianças e reputação",
+  "en": "Rewards helping. That is how alliances and reputation are built"
+ },
+ "index.k0365": {
+  "es": "Un momento para mirar afuera: ¿dónde ayudas mejor? Luego, ayuda ahí",
+  "pt": "Um momento para olhar para fora: onde você ajuda melhor? Depois, ajude ali",
+  "en": "Help where you add the most"
+ },
+ "index.k0366": {
+  "es": "Puede llevarte a decir sí a todo",
+  "pt": "Pode levar você a dizer sim a tudo",
+  "en": "It can make you say yes to everything"
+ },
+ "index.k0367": {
+  "es": "Confianza y desconfianza",
+  "pt": "Confiança e desconfiança",
+  "en": "Trustful & Distrustful"
+ },
+ "index.k0368": {
+  "es": "Calcula si el otro cooperará o te usará",
+  "pt": "Calcula se o outro vai cooperar ou te usar",
+  "en": "Estimates whether the other will cooperate or use you"
+ },
+ "index.k0369": {
+  "es": "Un momento para conocerte: ¿en qué hechos se apoya? Luego, decide cuánto confiar",
+  "pt": "Um momento para se conhecer: em que fatos ela se apoia? Depois, decida quanto confiar",
+  "en": "Base trust on repeated facts"
+ },
+ "index.k0370": {
+  "es": "Una sola experiencia puede generalizarse de más",
+  "pt": "Uma única experiência pode generalizar demais",
+  "en": "A single experience can be overgeneralized"
+ },
+ "index.k0371": {
+  "es": "Enojo",
+  "pt": "Raiva",
+  "en": "Angry"
+ },
+ "index.k0372": {
+  "es": "Señal de que alguien no te valora lo suficiente. Empuja a reclamar o a negociar",
+  "pt": "Sinal de que alguém não te valoriza o suficiente. Empurra a reclamar ou a negociar",
+  "en": "Signal that someone doesn't value you enough. Pushes you to complain or negotiate"
+ },
+ "index.k0373": {
+  "es": "Un momento para conocerte: ¿qué esperabas del otro? Luego, nómbralo y negocia",
+  "pt": "Um momento para se conhecer: o que você esperava do outro? Depois, nomeie isso e negocie",
+  "en": "Name what you expected, and negotiate"
+ },
+ "index.k0374": {
+  "es": "Da exceso de confianza y baja la percepción de riesgo",
+  "pt": "Dá excesso de confiança e baixa a percepção de risco",
+  "en": "It brings overconfidence and lowers perceived risk"
+ },
+ "index.k0375": {
+  "es": "Envidia",
+  "pt": "Inveja",
+  "en": "Envious"
+ },
+ "index.k0376": {
+  "es": "Compara: otro tiene algo que tú quieres. Empuja a alcanzarlo o a nivelar",
+  "pt": "Compara: outro tem algo que você quer. Empurra a alcançá-lo ou a nivelar",
+  "en": "Compares: someone has what you want. Pushes you to catch up or level the field"
+ },
+ "index.k0377": {
+  "es": "Un momento para conocerte: ¿qué tiene el otro que tú quieres? Luego, úsala como mapa",
+  "pt": "Um momento para se conhecer: o que o outro tem que você quer? Depois, use-a como mapa",
+  "en": "Use it as a map of what you want"
+ },
+ "index.k0378": {
+  "es": "Empuja a dañar al otro en vez de crecer",
+  "pt": "Empurra a prejudicar o outro em vez de crescer",
+  "en": "It pushes you to bring the other down instead of growing"
+ },
+ "index.k0379": {
+  "es": "Celos de pareja",
+  "pt": "Ciúme romântico",
+  "en": "Jealous — Romantic/Sexual"
+ },
+ "index.k0380": {
+  "es": "Alarma ante un posible rival en la pareja. Empuja a vigilar y retener",
+  "pt": "Alarme diante de um possível rival no casal. Empurra a vigiar e reter",
+  "en": "Alarm about a possible rival in the couple. Pushes you to guard and retain"
+ },
+ "index.k0381": {
+  "es": "Un momento para conocerte: ¿qué temes perder? Luego, háblalo con tu pareja",
+  "pt": "Um momento para se conhecer: o que você teme perder? Depois, converse com seu par",
+  "en": "Talk with your partner about what you fear"
+ },
+ "index.k0382": {
+  "es": "Ve rivales donde no los hay",
+  "pt": "Vê rivais onde não há",
+  "en": "It sees rivals where there are none"
+ },
+ "index.k0383": {
+  "es": "Celos de amistad",
+  "pt": "Ciúme de amizade",
+  "en": "Jealous — Friendship"
+ },
+ "index.k0384": {
+  "es": "Alarma ante perder un amigo por otro. Empuja a cuidar el vínculo",
+  "pt": "Alarme diante de perder um amigo para outro. Empurra a cuidar do vínculo",
+  "en": "Alarm about losing a friend to someone else. Pushes you to tend the bond"
+ },
+ "index.k0385": {
+  "es": "Un momento para conocerte: ¿qué temes perder de esa amistad? Luego, invierte tiempo en ella",
+  "pt": "Um momento para se conhecer: o que você teme perder dessa amizade? Depois, invista tempo nela",
+  "en": "Invest time in that friendship"
+ },
+ "index.k0386": {
+  "es": "Lleva a controlar al amigo",
+  "pt": "Leva a controlar o amigo",
+  "en": "It leads you to control your friend"
+ },
+ "index.k0387": {
+  "es": "Odio",
+  "pt": "Ódio",
+  "en": "Hatred"
+ },
+ "index.k0388": {
+  "es": "Marca a alguien como enemigo duradero. Empuja a dañarlo o alejarlo",
+  "pt": "Marca alguém como inimigo duradouro. Empurra a prejudicá-lo ou afastá-lo",
+  "en": "Marks someone as a lasting enemy. Pushes you to harm or distance them"
+ },
+ "index.k0389": {
+  "es": "Un momento para conocerte: ¿qué te dañó? Luego, pon distancia",
+  "pt": "Um momento para se conhecer: o que te machucou? Depois, tome distância",
+  "en": "Ask what hurt you, and keep your distance"
+ },
+ "index.k0390": {
+  "es": "Bloquea la reparación y se extiende a grupos",
+  "pt": "Bloqueia a reparação e se estende a grupos",
+  "en": "It blocks repair and spreads to whole groups"
+ },
+ "index.k0391": {
+  "es": "Desprecio",
+  "pt": "Desprezo",
+  "en": "Contempt"
+ },
+ "index.k0392": {
+  "es": "Marca a alguien como de poco valor. Empuja a excluirlo",
+  "pt": "Marca alguém como de pouco valor. Empurra a excluí-lo",
+  "en": "Marks someone as low in value. Pushes you to exclude them"
+ },
+ "index.k0393": {
+  "es": "Un momento para conocerte: ¿qué norma valoras que el otro no cumple? Luego, pregúntate qué podrías aprender",
+  "pt": "Um momento para se conhecer: que norma você valoriza que o outro não cumpre? Depois, pergunte-se o que poderia aprender",
+  "en": "Use it to see which norms you value"
+ },
+ "index.k0394": {
+  "es": "Cierra la puerta a aprender del otro",
+  "pt": "Fecha a porta para aprender com o outro",
+  "en": "It shuts the door to learning from the other"
+ },
+ "index.k0395": {
+  "es": "Resentimiento",
+  "pt": "Ressentimento",
+  "en": "Resentment"
+ },
+ "index.k0396": {
+  "es": "Recuerda una ofensa no resuelta. Mantiene el reclamo en el tiempo",
+  "pt": "Lembra uma ofensa não resolvida. Mantém a cobrança no tempo",
+  "en": "Remembers an unresolved offense. Keeps the claim alive over time"
+ },
+ "index.k0397": {
+  "es": "Un momento para conocerte: ¿qué ofensa sigue abierta? Luego, háblala o decide soltarla",
+  "pt": "Um momento para se conhecer: que ofensa segue aberta? Depois, fale dela ou decida soltá-la",
+  "en": "Raise the offense, or decide to let it go"
+ },
+ "index.k0398": {
+  "es": "Mantiene el costo vivo sin cobrar nada",
+  "pt": "Mantém o custo vivo sem ganhar nada",
+  "en": "It keeps the cost alive without collecting anything"
+ },
+ "index.k0399": {
+  "es": "Orgullo",
+  "pt": "Orgulho",
+  "en": "Proud"
+ },
+ "index.k0400": {
+  "es": "Señala un logro que sube tu valor ante otros. Empuja a mostrarlo",
+  "pt": "Sinaliza uma conquista que aumenta seu valor diante dos outros. Empurra a mostrá-la",
+  "en": "Signals an achievement that raises your value to others. Pushes you to show it"
+ },
+ "index.k0401": {
+  "es": "Un momento para mirar afuera: ¿qué lograste, y cómo? Luego, regístralo y compártelo",
+  "pt": "Um momento para olhar para fora: o que você conquistou, e como? Depois, registre e compartilhe",
+  "en": "Record the achievement and share it"
+ },
+ "index.k0402": {
+  "es": "Lleva a sobrevalorar tus próximas apuestas",
+  "pt": "Leva a superestimar suas próximas apostas",
+  "en": "It leads you to overrate your next bets"
+ },
+ "index.k0403": {
+  "es": "Gracia",
+  "pt": "Achar graça",
+  "en": "Amused"
+ },
+ "index.k0404": {
+  "es": "La risa compartida marca que algo no es amenaza y une al grupo",
+  "pt": "O riso compartilhado marca que algo não é ameaça e une o grupo",
+  "en": "Shared laughter marks that something is not a threat and bonds the group"
+ },
+ "index.k0405": {
+  "es": "Un momento para mirar afuera: ¿qué te hizo reír? Luego, compártelo con otros",
+  "pt": "Um momento para olhar para fora: o que te fez rir? Depois, compartilhe com outros",
+  "en": "Laugh with others; it eases tension"
+ },
+ "index.k0406": {
+  "es": "A costa de otro, divide",
+  "pt": "Às custas de alguém, divide",
+  "en": "At someone's expense, it divides"
+ },
+ "index.k0407": {
+  "es": "Pertenencia",
+  "pt": "Pertencimento",
+  "en": "A Sense of Belonging"
+ },
+ "index.k0408": {
+  "es": "Señal de que el grupo te incluye. Sostiene la cooperación",
+  "pt": "Sinal de que o grupo te inclui. Sustenta a cooperação",
+  "en": "Signal that the group includes you. Sustains cooperation"
+ },
+ "index.k0409": {
+  "es": "Un momento para conocerte: ¿qué te hace sentir parte? Luego, invierte en ese grupo",
+  "pt": "Um momento para se conhecer: o que te faz sentir parte? Depois, invista nesse grupo",
+  "en": "Invest in the group that includes you"
+ },
+ "index.k0410": {
+  "es": "Empuja a seguir al grupo aunque esté errado",
+  "pt": "Empurra a seguir o grupo mesmo errado",
+  "en": "It pushes you to follow the group even when it is wrong"
+ },
+ "index.k0411": {
+  "es": "Soledad",
+  "pt": "Solidão",
+  "en": "Lonely"
+ },
+ "index.k0412": {
+  "es": "Alarma de aislamiento. Empuja a reconectar con otros",
+  "pt": "Alarme de isolamento. Empurra a reconectar com os outros",
+  "en": "Isolation alarm. Pushes you to reconnect with others"
+ },
+ "index.k0413": {
+  "es": "Un momento para conocerte: ¿qué vínculo te falta, y cuán probable lo ves? Luego, prueba un paso chico para medirlo",
+  "pt": "Um momento para se conhecer: que vínculo te falta, e quão provável você o vê? Depois, dê um passo pequeno para medi-lo",
+  "en": "Write to someone today"
+ },
+ "index.k0414": {
+  "es": "Hace que los otros parezcan más lejanos de lo que están",
+  "pt": "Faz os outros parecerem mais distantes do que estão",
+  "en": "It makes others seem farther away than they are"
+ },
+ "index.k0415": {
+  "es": "Juicio moral",
+  "pt": "Juízo moral",
+  "en": "Judgy — The Moral Sense"
+ },
+ "index.k0416": {
+  "es": "Evalúa si una acción respeta las normas del grupo. Empuja a aprobar o sancionar",
+  "pt": "Avalia se uma ação respeita as normas do grupo. Empurra a aprovar ou sancionar",
+  "en": "Judges whether an action respects group norms. Pushes you to approve or sanction"
+ },
+ "index.k0417": {
+  "es": "Un momento para conocerte: ¿qué norma está en juego? Luego, pregúntate qué valoras",
+  "pt": "Um momento para se conhecer: que norma está em jogo? Depois, pergunte-se o que você valoriza",
+  "en": "Use it to see what you value"
+ },
+ "index.k0418": {
+  "es": "Juzga rápido y castiga de más",
+  "pt": "Julga rápido e pune demais",
+  "en": "It judges fast and punishes too much"
+ },
+ "index.k0419": {
+  "es": "Admiración",
+  "pt": "Admiração",
+  "en": "Admiration"
+ },
+ "index.k0420": {
+  "es": "Marca a alguien de quien aprender. Empuja a acercarte e imitarlo",
+  "pt": "Marca alguém com quem aprender. Empurra a se aproximar e imitá-lo",
+  "en": "Marks someone to learn from. Pushes you to get closer and imitate them"
+ },
+ "index.k0421": {
+  "es": "Un momento para mirar afuera: ¿qué admiras de esa persona? Luego, aprende algo concreto de ella",
+  "pt": "Um momento para olhar para fora: o que você admira nessa pessoa? Depois, aprenda algo concreto com ela",
+  "en": "Learn something concrete from that person"
+ },
+ "index.k0422": {
+  "es": "Puede hacerte sentir menos",
+  "pt": "Pode fazer você se sentir menor",
+  "en": "It can make you feel smaller"
+ },
+ "index.k0423": {
+  "es": "Bochorno",
+  "pt": "Constrangimento",
+  "en": "Embarrassed"
+ },
+ "index.k0424": {
+  "es": "Llega tras un error social menor. Mostrarlo repara tu imagen ante otros",
+  "pt": "Chega depois de um erro social menor. Mostrá-lo repara sua imagem diante dos outros",
+  "en": "Follows a minor social slip. Showing it repairs your image with others"
+ },
+ "index.k0425": {
+  "es": "Un momento para conocerte: ¿fue tan grave el error? Luego, ríete y sigue",
+  "pt": "Um momento para se conhecer: o erro foi tão grave? Depois, ria e siga",
+  "en": "Laugh at the slip and move on"
+ },
+ "index.k0426": {
+  "es": "Hace que un error menor parezca enorme",
+  "pt": "Faz um erro pequeno parecer enorme",
+  "en": "It makes a small mistake look huge"
+ },
+ "index.k0427": {
+  "es": "Vergüenza",
+  "pt": "Vergonha",
+  "en": "Shame"
+ },
+ "index.k0428": {
+  "es": "Avisa que otros podrían valorarte menos. Empuja a esconder o a reparar",
+  "pt": "Avisa que os outros poderiam te valorizar menos. Empurra a esconder ou a reparar",
+  "en": "Signals others might value you less. Pushes you to hide or repair"
+ },
+ "index.k0429": {
+  "es": "Un momento para conocerte: ¿qué temes que otros piensen? Luego, mira qué podrías reparar",
+  "pt": "Um momento para se conhecer: o que você teme que os outros pensem? Depois, veja o que poderia reparar",
+  "en": "Ask what you could repair"
+ },
+ "index.k0430": {
+  "es": "Empuja a esconderte y evitar",
+  "pt": "Empurra a se esconder e evitar",
+  "en": "It pushes you to hide and avoid"
+ },
+ "index.k0431": {
+  "es": "Culpa",
+  "pt": "Culpa",
+  "en": "Guilt"
+ },
+ "index.k0432": {
+  "es": "Avisa que dañaste a alguien que te importa. Empuja a reparar",
+  "pt": "Avisa que você prejudicou alguém que importa. Empurra a reparar",
+  "en": "Signals you harmed someone you care about. Pushes you to repair"
+ },
+ "index.k0433": {
+  "es": "Un momento para conocerte: ¿a quién dañaste, y cómo? Luego, repara con una acción concreta",
+  "pt": "Um momento para se conhecer: quem você machucou, e como? Depois, repare com uma ação concreta",
+  "en": "Repair with a concrete action"
+ },
+ "index.k0434": {
+  "es": "Sin reparación, se vuelve castigo propio",
+  "pt": "Sem reparação, vira autopunição",
+  "en": "Without repair it turns into self-punishment"
+ },
+ "index.k0435": {
+  "es": "Desánimo",
+  "pt": "Desânimo",
+  "en": "Low mood"
+ },
+ "index.k0436": {
+  "es": "Ánimo bajo que persiste. Una hipótesis evolutiva lo liga a pedir apoyo o a frenar esfuerzos que no rinden. Si dura semanas, conviene hablar con un profesional",
+  "pt": "Ânimo baixo que persiste. Uma hipótese evolutiva o liga a pedir apoio ou a frear esforços que não rendem. Se durar semanas, convém falar com um profissional",
+  "en": "Persistent low mood. One evolutionary hypothesis links it to seeking support or halting efforts that don't pay off. If it lasts weeks, talk to a professional"
+ },
+ "index.k0437": {
+  "es": "Pide apoyo y busca ayuda profesional si persiste",
+  "pt": "Peça apoio e procure ajuda profissional se persistir",
+  "en": "Ask for support, and seek professional help if it persists"
+ },
+ "index.k0438": {
+  "es": "Hace que todo futuro parezca peor de lo que será",
+  "pt": "Faz todo futuro parecer pior do que será",
+  "en": "It makes every future look worse than it will be"
+ },
+ "index.k0439": {
+  "es": "Tristeza",
+  "pt": "Tristeza",
+  "en": "Sad"
+ },
+ "index.k0440": {
+  "es": "Responde a una pérdida. Baja el ritmo para reevaluar y puede atraer apoyo",
+  "pt": "Responde a uma perda. Diminui o ritmo para reavaliar e pode atrair apoio",
+  "en": "Responds to a loss. Slows you down to reassess and may draw support"
+ },
+ "index.k0441": {
+  "es": "Un momento para conocerte: ¿qué perdiste? Luego, baja el ritmo y pide apoyo",
+  "pt": "Um momento para se conhecer: o que você perdeu? Depois, diminua o ritmo e peça apoio",
+  "en": "Slow down and ask for support"
+ },
+ "index.k0442": {
+  "es": "Hace que el futuro parezca menos satisfactorio",
+  "pt": "Faz o futuro parecer menos satisfatório",
+  "en": "It makes the future look less satisfying"
+ },
+ "index.k0443": {
+  "es": "Felicidad",
+  "pt": "Felicidade",
+  "en": "Happy"
+ },
+ "index.k0444": {
+  "es": "Señal de que las cosas van bien. Invita a seguir y a compartir",
+  "pt": "Sinal de que as coisas vão bem. Convida a seguir e a compartilhar",
+  "en": "Signal that things are going well. Invites you to continue and share"
+ },
+ "index.k0445": {
+  "es": "Un momento para mirar afuera: ¿qué la trajo? Luego, compártela",
+  "pt": "Um momento para olhar para fora: o que a trouxe? Depois, compartilhe-a",
+  "en": "Share it and notice what brought it"
+ },
+ "index.k0446": {
+  "es": "Lleva a sobrevalorar lo que viene",
+  "pt": "Leva a superestimar o que vem",
+  "en": "It leads you to overrate what comes next"
+ },
+ "index.k0447": {
+  "es": "Alegría y euforia",
+  "pt": "Alegria e euforia",
+  "en": "Joy & Euphoria"
+ },
+ "index.k0448": {
+  "es": "Pico de bienestar ante un gran logro o una buena noticia",
+  "pt": "Pico de bem-estar diante de uma grande conquista ou uma boa notícia",
+  "en": "Peak of well-being after a big achievement or good news"
+ },
+ "index.k0449": {
+  "es": "Un momento para mirar afuera: ¿qué lograste, o qué noticia llegó? Luego, celébralo y anótalo",
+  "pt": "Um momento para olhar para fora: o que você conquistou, ou que notícia chegou? Depois, celebre e anote",
+  "en": "Celebrate it and write it down to remember"
+ },
+ "index.k0450": {
+  "es": "Infla las predicciones y baja el cuidado",
+  "pt": "Infla as previsões e baixa o cuidado",
+  "en": "It inflates predictions and lowers caution"
+ },
+ "index.k0451": {
+  "es": "Concentración, flujo",
+  "pt": "Concentração, fluxo",
+  "en": "Focused / In Flow"
+ },
+ "index.k0452": {
+  "es": "La tarea rinde y te absorbe. Sostiene la atención sin costo sentido",
+  "pt": "A tarefa rende e te absorve. Sustenta a atenção sem custo sentido",
+  "en": "The task pays off and absorbs you. Sustains attention without felt cost"
+ },
+ "index.k0453": {
+  "es": "Un momento para mirar afuera: ¿qué hace que esto te absorba? Luego, protege el momento",
+  "pt": "Um momento para olhar para fora: o que faz isso te absorver? Depois, proteja o momento",
+  "en": "Protect that moment from interruptions"
+ },
+ "index.k0454": {
+  "es": "Pierdes la noción del tiempo y de otras metas",
+  "pt": "Você perde a noção do tempo e de outras metas",
+  "en": "You lose track of time and of other goals"
+ },
+ "index.k0455": {
+  "es": "Aburrimiento",
+  "pt": "Tédio",
+  "en": "Boredom"
+ },
+ "index.k0456": {
+  "es": "Avisa que esta tarea rinde poco. Empuja a buscar algo mejor",
+  "pt": "Avisa que esta tarefa rende pouco. Empurra a buscar algo melhor",
+  "en": "Signals this task pays little. Pushes you to look for something better"
+ },
+ "index.k0457": {
+  "es": "Un momento para conocerte: ¿qué tarea rendiría más? Luego, decide si cambias",
+  "pt": "Um momento para se conhecer: que tarefa renderia mais? Depois, decida se muda",
+  "en": "Ask which task would pay off more"
+ },
+ "index.k0458": {
+  "es": "Lleva a cambiar antes de que algo madure",
+  "pt": "Leva a trocar antes de algo amadurecer",
+  "en": "It makes you switch before something matures"
+ },
+ "index.k0459": {
+  "es": "Distracción",
+  "pt": "Distração",
+  "en": "Distracted"
+ },
+ "index.k0460": {
+  "es": "La atención se va hacia otra cosa que parece más valiosa",
+  "pt": "A atenção vai para outra coisa que parece mais valiosa",
+  "en": "Attention drifts to something that seems more valuable"
+ },
+ "index.k0461": {
+  "es": "Un momento para conocerte: ¿hacia dónde se fue tu atención? Luego, anótalo y vuelve",
+  "pt": "Um momento para se conhecer: para onde foi sua atenção? Depois, anote e volte",
+  "en": "Note the distraction and come back"
+ },
+ "index.k0462": {
+  "es": "Lo nuevo parece más valioso de lo que es",
+  "pt": "O novo parece mais valioso do que é",
+  "en": "The new thing looks more valuable than it is"
+ },
+ "index.k0463": {
+  "es": "Curiosidad",
+  "pt": "Curiosidade",
+  "en": "Curiosity"
+ },
+ "index.k0464": {
+  "es": "Avisa que hay información valiosa por conseguir. Empuja a explorar",
+  "pt": "Avisa que há informação valiosa por conseguir. Empurra a explorar",
+  "en": "Signals valuable information to be had. Pushes you to explore"
+ },
+ "index.k0465": {
+  "es": "Un momento para mirar afuera: ¿qué quieres saber? Luego, explora con esa pregunta",
+  "pt": "Um momento para olhar para fora: o que você quer saber? Depois, explore com essa pergunta",
+  "en": "Explore with one concrete question"
+ },
+ "index.k0466": {
+  "es": "Puede alejarte de la meta principal",
+  "pt": "Pode afastar você da meta principal",
+  "en": "It can pull you away from your main goal"
+ },
+ "index.k0467": {
+  "es": "Sorpresa",
+  "pt": "Surpresa",
+  "en": "Surprise"
+ },
+ "index.k0468": {
+  "es": "Tu predicción falló. Frena y dirige la atención para actualizar",
+  "pt": "Sua previsão falhou. Freia e dirige a atenção para atualizar",
+  "en": "Your prediction failed. Stops you and directs attention to update"
+ },
+ "index.k0469": {
+  "es": "Un momento para conocerte: ¿qué predijiste, y qué pasó? Luego, actualiza tu predicción",
+  "pt": "Um momento para se conhecer: o que você previu, e o que aconteceu? Depois, atualize sua previsão",
+  "en": "Update your prediction"
+ },
+ "index.k0470": {
+  "es": "Si la ignoras, repites el mismo error",
+  "pt": "Se a ignorar, você repete o mesmo erro",
+  "en": "If you ignore it, you repeat the same mistake"
+ },
+ "index.k0471": {
+  "es": "Asombro",
+  "pt": "Assombro",
+  "en": "Awe"
+ },
+ "index.k0472": {
+  "es": "Ante algo enorme que no entra en lo que sabes. Empuja a ampliar tu mapa",
+  "pt": "Diante de algo enorme que não cabe no que você sabe. Empurra a ampliar seu mapa",
+  "en": "Facing something vast that doesn't fit what you know. Pushes you to expand your map"
+ },
+ "index.k0473": {
+  "es": "Un momento para mirar afuera: ¿qué no entra en lo que sabías? Luego, amplía tu mapa",
+  "pt": "Um momento para olhar para fora: o que não cabe no que você sabia? Depois, amplie seu mapa",
+  "en": "Widen your map and take notes"
+ },
+ "index.k0474": {
+  "es": "Puede llevarte a aceptar ideas sin pruebas",
+  "pt": "Pode levar você a aceitar ideias sem provas",
+  "en": "It can lead you to accept ideas without evidence"
+ },
+ "index.k0475": {
+  "es": "Escepticismo, duda",
+  "pt": "Ceticismo, dúvida",
+  "en": "Skeptical / Doubtful"
+ },
+ "index.k0476": {
+  "es": "Señal de que una idea puede ser falsa. Frena creerla sin pruebas",
+  "pt": "Sinal de que uma ideia pode ser falsa. Freia acreditar nela sem provas",
+  "en": "Signal that an idea may be false. Stops you from believing it without evidence"
+ },
+ "index.k0477": {
+  "es": "Un momento para conocerte: ¿qué prueba te convencería? Luego, búscala",
+  "pt": "Um momento para se conhecer: que prova te convenceria? Depois, busque-a",
+  "en": "Ask for evidence before believing"
+ },
+ "index.k0478": {
+  "es": "En exceso, paraliza y nada te convence",
+  "pt": "Em excesso, paralisa e nada convence",
+  "en": "In excess it paralyzes and nothing convinces you"
+ },
+ "index.k0479": {
+  "es": "Sensación de saber",
+  "pt": "Sensação de saber",
+  "en": "The Feeling of Knowing"
+ },
+ "index.k0480": {
+  "es": "Avisa que la respuesta está en tu memoria, aunque todavía no aparezca",
+  "pt": "Avisa que a resposta está na sua memória, mesmo que ainda não apareça",
+  "en": "Signals the answer is in your memory, even if it hasn't surfaced yet"
+ },
+ "index.k0481": {
+  "es": "Un momento para mirar afuera: ¿dónde lo aprendiste? Luego, espera o busca la pista",
+  "pt": "Um momento para olhar para fora: onde você aprendeu isso? Depois, espere ou busque a pista",
+  "en": "Wait a little or look for the clue"
+ },
+ "index.k0482": {
+  "es": "Puede darte certeza falsa",
+  "pt": "Pode dar certeza falsa",
+  "en": "It can give false certainty"
+ },
+ "index.k0483": {
+  "es": "Confusión",
+  "pt": "Confusão",
+  "en": "Confusion"
+ },
+ "index.k0484": {
+  "es": "Tu modelo no explica lo que ves. Empuja a detenerte y entender",
+  "pt": "Seu modelo não explica o que você vê. Empurra a parar e entender",
+  "en": "Your model doesn't explain what you see. Pushes you to stop and understand"
+ },
+ "index.k0485": {
+  "es": "Un momento para conocerte: ¿qué pieza falta? Luego, búscala",
+  "pt": "Um momento para se conhecer: que peça falta? Depois, busque-a",
+  "en": "Stop and look for the missing piece"
+ },
+ "index.k0486": {
+  "es": "Lleva a abandonar o a simplificar de más",
+  "pt": "Leva a desistir ou a simplificar demais",
+  "en": "It leads you to give up or oversimplify"
+ },
+ "index.k0487": {
+  "es": "Incertidumbre y certeza",
+  "pt": "Incerteza e certeza",
+  "en": "Uncertain / Certain"
+ },
+ "index.k0488": {
+  "es": "Mide cuánto confías en lo que sabes. Ayuda a decidir si actuar o seguir buscando",
+  "pt": "Mede quanto você confia no que sabe. Ajuda a decidir se age ou continua buscando",
+  "en": "Measures how much you trust what you know. Helps decide whether to act or keep searching"
+ },
+ "index.k0489": {
+  "es": "Un momento para conocerte: ¿cuánto sabes de verdad? Luego, busca datos o actúa",
+  "pt": "Um momento para se conhecer: quanto você sabe de verdade? Depois, busque dados ou aja",
+  "en": "If low, gather more data; if high, act"
+ },
+ "index.k0490": {
+  "es": "La certeza se siente igual aunque estés equivocado",
+  "pt": "A certeza parece igual mesmo quando você erra",
+  "en": "Certainty feels the same even when you are wrong"
+ },
+ "index.k0491": {
+  "es": "Comprensión",
+  "pt": "Compreensão",
+  "en": "Understanding"
+ },
+ "index.k0492": {
+  "es": "Recompensa encajar las piezas. Avisa que ya puedes usar lo aprendido",
+  "pt": "Recompensa encaixar as peças. Avisa que você já pode usar o aprendido",
+  "en": "Rewards fitting the pieces together. Signals you can now use what you learned"
+ },
+ "index.k0493": {
+  "es": "Un momento para mirar afuera: ¿qué entendiste? Luego, úsalo ya",
+  "pt": "Um momento para olhar para fora: o que você entendeu? Depois, use já",
+  "en": "Use what you learned right away"
+ },
+ "index.k0494": {
+  "es": "Sentir que entiendes no siempre es entender",
+  "pt": "Sentir que entende nem sempre é entender",
+  "en": "Feeling that you understand is not always understanding"
+ },
+ "index.k0495": {
+  "es": "Inspiración",
+  "pt": "Inspiração",
+  "en": "Inspired"
+ },
+ "index.k0496": {
+  "es": "Una idea o un ejemplo abre una posibilidad nueva. Empuja a crear",
+  "pt": "Uma ideia ou um exemplo abre uma possibilidade nova. Empurra a criar",
+  "en": "An idea or example opens a new possibility. Pushes you to create"
+ },
+ "index.k0497": {
+  "es": "Un momento para mirar afuera: ¿qué idea se abrió? Luego, anótala y da un paso pequeño",
+  "pt": "Um momento para olhar para fora: que ideia se abriu? Depois, anote e dê um passo pequeno",
+  "en": "Write the idea down and take one small step"
+ },
+ "index.k0498": {
+  "es": "Infla el entusiasmo inicial",
+  "pt": "Infla o entusiasmo inicial",
+  "en": "It inflates early enthusiasm"
+ },
+ "index.k0499": {
+  "es": "Esfuerzo",
+  "pt": "Esforço",
+  "en": "Effort"
+ },
+ "index.k0500": {
+  "es": "Mide el costo de seguir con esta tarea frente a otras opciones",
+  "pt": "Mede o custo de continuar nesta tarefa frente a outras opções",
+  "en": "Measures the cost of staying on this task versus other options"
+ },
+ "index.k0501": {
+  "es": "Un momento para conocerte: ¿cuánto te cuesta esto frente a otras tareas? Luego, decide si sigues",
+  "pt": "Um momento para se conhecer: quanto isso te custa frente a outras tarefas? Depois, decida se continua",
+  "en": "Use it to compare costs across tasks"
+ },
+ "index.k0502": {
+  "es": "Lleva a abandonar lo valioso por lo fácil",
+  "pt": "Leva a abandonar o valioso pelo fácil",
+  "en": "It leads you to drop the valuable for the easy"
+ },
+ "index.k0503": {
+  "es": "Impaciencia",
+  "pt": "Impaciência",
+  "en": "Impatience"
+ },
+ "index.k0504": {
+  "es": "Avisa que la espera cuesta más de lo que vale. Empuja a actuar o a irte",
+  "pt": "Avisa que a espera custa mais do que vale. Empurra a agir ou a ir embora",
+  "en": "Signals the wait costs more than it's worth. Pushes you to act or leave"
+ },
+ "index.k0505": {
+  "es": "Un momento para conocerte: ¿vale la pena esperar? Luego, actúa o espera con calma",
+  "pt": "Um momento para se conhecer: vale a pena esperar? Depois, aja ou espere com calma",
+  "en": "Ask whether waiting is worth it"
+ },
+ "index.k0506": {
+  "es": "Lleva a decidir rápido y mal",
+  "pt": "Leva a decidir rápido e mal",
+  "en": "It leads you to decide fast and badly"
+ },
+ "index.k0507": {
+  "es": "Frustración",
+  "pt": "Frustração",
+  "en": "Frustration"
+ },
+ "index.k0508": {
+  "es": "Algo bloquea una meta. Empuja a insistir con más fuerza o a cambiar de camino",
+  "pt": "Algo bloqueia uma meta. Empurra a insistir com mais força ou a mudar de caminho",
+  "en": "Something blocks a goal. Pushes you to push harder or change course"
+ },
+ "index.k0509": {
+  "es": "Un momento para conocerte: ¿qué bloquea tu meta? Luego, cambia de camino o pide ayuda",
+  "pt": "Um momento para se conhecer: o que bloqueia sua meta? Depois, mude de caminho ou peça ajuda",
+  "en": "Change route or ask for help"
+ },
+ "index.k0510": {
+  "es": "Lleva a insistir en lo que no funciona",
+  "pt": "Leva a insistir no que não funciona",
+  "en": "It leads you to push on what is not working"
+ },
+ "index.k0511": {
+  "es": "Cierre",
+  "pt": "Fechamento",
+  "en": "Closure"
+ },
+ "index.k0512": {
+  "es": "La satisfacción de completar algo. Avisa que lo que obtuviste alcanzó lo que esperabas",
+  "pt": "A satisfação de completar algo. Avisa que o que você obteve alcançou o que esperava",
+  "en": "The satisfaction of completing something. Signals that what you got reached what you expected"
+ },
+ "index.k0513": {
+  "es": "Un momento para mirar afuera: ¿qué obtuviste frente a lo que esperabas? Luego, elige la siguiente meta",
+  "pt": "Um momento para olhar para fora: o que você obteve frente ao que esperava? Depois, escolha a próxima meta",
+  "en": "Close the goal and pick the next one"
+ },
+ "index.k0514": {
+  "es": "Puede frenarte antes de terminar",
+  "pt": "Pode frear você antes de terminar",
+  "en": "It can stop you before you finish"
+ },
+ "index.k0515": {
+  "es": "¿Qué sientes ahora",
+  "pt": "O que você sente agora",
+  "en": "What do you feel right now"
+ },
+ "index.k0516": {
+  "es": "¿En qué nivel lo sientes",
+  "pt": "Em que nível você sente",
+  "en": "At what level do you feel it"
+ },
+ "index.k0517": {
+  "es": "¿Cuál es",
+  "pt": "Qual é",
+  "en": "Which one is it"
+ },
+ "index.k0518": {
+  "es": "Más bien agradable",
+  "pt": "Mais para agradável",
+  "en": "Rather pleasant"
+ },
+ "index.k0519": {
+  "es": "Más bien desagradable",
+  "pt": "Mais para desagradável",
+  "en": "Rather unpleasant"
+ },
+ "index.k0520": {
+  "es": "Úsala",
+  "pt": "Use-a",
+  "en": "Use it"
+ },
+ "index.k0521": {
+  "es": "Cuidado",
+  "pt": "Cuidado",
+  "en": "Watch out"
+ },
+ "index.k0522": {
+  "es": "Elige la emoción más cercana",
+  "pt": "Escolha a emoção mais próxima",
+  "en": "Pick the closest emotion"
+ },
+ "index.k0523": {
+  "es": "Ejemplo cargado: Ansiedad. Cambia las opciones",
+  "pt": "Exemplo carregado: Ansiedade. Mude as opções",
+  "en": "Example loaded: Anxiety. Change the options"
+ },
+ "index.k0524": {
+  "es": "En la app, esto queda unido a tu predicción",
+  "pt": "No app, isto fica ligado à sua previsão",
+  "en": "In the app, this is tied to your prediction"
+ },
+ "index.k0525": {
+  "es": "Copiado",
+  "pt": "Copiado",
+  "en": "Copied"
+ },
+ "afecto.k0001": {
+  "es": "es",
+  "pt": "pt",
+  "en": "en"
+ },
+ "afecto.k0002": {
+  "es": "Camino del afecto",
+  "pt": "Caminho do afeto",
+  "en": "Path of Affect"
+ },
+ "afecto.k0003": {
+  "es": "Cinco pasos para nombrar lo que sientes. Une los cuatro niveles de la app ESTIMAT con la clasificación de emociones de Robert Kurzban",
+  "pt": "Cinco passos para nomear o que você sente. Une os quatro níveis do app ESTIMAT com a classificação de emoções de Robert Kurzban",
+  "en": "Five steps to name what you feel. It joins the ESTIMAT app's four levels with Robert Kurzban's taxonomy of emotions"
+ },
+ "afecto.k0004": {
+  "es": "index",
+  "pt": "pt",
+  "en": "en"
+ },
+ "afecto.k0005": {
+  "es": "Inicio",
+  "pt": "Início",
+  "en": "Home"
+ },
+ "afecto.k0006": {
+  "es": "Emociones",
+  "pt": "Emoções",
+  "en": "Emotions"
+ },
+ "afecto.k0007": {
+  "es": "sistemas",
+  "pt": "sistemas-pt",
+  "en": "sistemas-en"
+ },
+ "afecto.k0008": {
+  "es": "Ensayo",
+  "pt": "Ensaio",
+  "en": "Essay"
+ },
+ "afecto.k0009": {
+  "es": "",
+  "pt": "pt.html",
+  "en": ""
+ },
+ "afecto.k0010": {
+  "es": "Abrir",
+  "pt": "Abrir",
+  "en": "Open"
+ },
+ "afecto.k0011": {
+  "es": " aria-current=\"true\"",
+  "pt": "",
+  "en": ""
+ },
+ "afecto.k0012": {
+  "es": "",
+  "pt": " aria-current=\"true\"",
+  "en": ""
+ },
+ "afecto.k0013": {
+  "es": "",
+  "pt": "",
+  "en": " aria-current=\"true\""
+ },
+ "afecto.k0014": {
+  "es": "afecto por niveles",
+  "pt": "afeto por níveis",
+  "en": "affect by levels"
+ },
+ "afecto.k0015": {
+  "es": "Idioma",
+  "pt": "Idioma",
+  "en": "Language"
+ },
+ "afecto.k0016": {
+  "es": " aria-current=\"page\" style=\"font-weight:600;text-decoration:none;color:inherit\">Español</a> · <a href=\"estimat-afecto-pt.html\" hreflang=\"pt\"",
+  "pt": ">Español</a> · <a href=\"estimat-afecto-pt.html\" hreflang=\"pt\" aria-current=\"page\" style=\"font-weight:600;text-decoration:none;color:inherit\"",
+  "en": ">Español</a> · <a href=\"estimat-afecto-pt.html\" hreflang=\"pt\""
+ },
+ "afecto.k0017": {
+  "es": "",
+  "pt": "",
+  "en": " aria-current=\"page\" style=\"font-weight:600;text-decoration:none;color:inherit\""
+ },
+ "afecto.k0018": {
+  "es": "En la app ESTIMAT buscamos tu bienestar a largo plazo. Proponemos un camino: conocerte con tus propios datos, en lo que te sale bien y en lo que te sale mal. Ves dónde fallan tus predicciones sobre ti y decides mejor con eso. Que funcione es una apuesta, y te invitamos a hacerla con nosotros. Puede ayudarte mucho o poco. Al final tendrás datos para juzgar cuánto vale conocerte en tu vida",
+  "pt": "No app ESTIMAT buscamos seu bem-estar a longo prazo. Propomos um caminho: conhecer você com seus próprios dados, no que dá certo e no que dá errado. Você vê onde suas previsões sobre você falham e decide melhor com isso. É uma aposta, e convidamos você a fazê-la com a gente. Pode ajudar muito ou pouco. No fim, você terá dados para julgar quanto vale se conhecer na sua vida",
+  "en": "With the ESTIMAT app we seek your long-term wellbeing. We propose a path: knowing yourself with your own data, in what goes well and in what goes badly. You see where your predictions about yourself fail and you decide better with that. That it works is a bet, and we invite you to make it with us. It may help you a lot or a little. In the end you will have data to judge how much knowing yourself is worth in your life"
+ },
+ "afecto.k0019": {
+  "es": "es una app de autoconocimiento con tus propios datos. Mapeas tus expectativas en metas, inviertes en acciones con una predicción y después comparas el retorno. Así ves, con tus propios datos, qué cambios te sirven",
+  "pt": "é um app de autoconhecimento com seus próprios dados. Você mapeia suas expectativas em metas, investe em ações com uma previsão e depois compara o retorno. Assim vê, com seus próprios dados, quais mudanças funcionam para você",
+  "en": "is a self-knowledge app built on your own data. You map your expectations into goals, invest in actions with a prediction, and then compare the return. That way you see, with your own data, which changes work for you"
+ },
+ "afecto.k0020": {
+  "es": "El afecto entra en ese ciclo. El ánimo tiñe las predicciones, y nombrar lo que sientes ayuda a regularlo. Por eso, antes de actuar y al terminar, eliges cómo te sientes",
+  "pt": "O afeto entra nesse ciclo. O humor tinge as previsões, e nomear o que você sente ajuda a regulá-lo. Por isso, antes de agir e ao terminar, você escolhe como se sente",
+  "en": "Affect is part of that cycle. Mood colors predictions, and naming what you feel helps regulate it. So before acting and when you finish, you choose how you feel"
+ },
+ "afecto.k0021": {
+  "es": "La app ESTIMAT ordena todo en cuatro niveles, del más simple al que más une. Robert Kurzban (<i>All the Feels</i>, 2025) propone que cada emoción resuelve un problema, y ordena 74 emociones en grandes grupos y familias. Unimos los dos sistemas por dos razones. Sus grandes grupos encajan casi uno a uno con nuestros niveles. Y su enfoque funcional permite explicar cada emoción en una línea",
+  "pt": "O app ESTIMAT organiza tudo em quatro níveis, do mais simples ao que mais une. Robert Kurzban (<i>All the Feels</i>, 2025) propõe que cada emoção resolve um problema e organiza 74 emoções em grandes grupos e famílias. Unimos os dois sistemas por duas razões. Seus reinos encaixam quase um a um com nossos níveis. E seu enfoque funcional permite explicar cada emoção em uma linha",
+  "en": "The ESTIMAT app sorts everything into four levels, from the simplest to the most integrating. Robert Kurzban (<i>All the Feels</i>, 2025) proposes that each emotion solves a problem, and sorts 74 emotions into kingdoms and phyla. We joined the two systems for two reasons. His kingdoms fit our levels almost one to one. And his functional approach lets us explain each emotion in one line"
+ },
+ "afecto.k0022": {
+  "es": "El ciclo de la app ESTIMAT",
+  "pt": "O ciclo do app ESTIMAT",
+  "en": "The cycle of the ESTIMAT app"
+ },
+ "afecto.k0023": {
+  "es": "Mapear:</b> divides tus expectativas en metas",
+  "pt": "Mapear:</b> você divide suas expectativas em metas",
+  "en": "Map:</b> you split your expectations into goals"
+ },
+ "afecto.k0024": {
+  "es": "Invertir:</b> eliges una acción y predices energía y satisfacción",
+  "pt": "Investir:</b> você escolhe uma ação e prevê energia e satisfação",
+  "en": "Invest:</b> you choose an action and predict energy and satisfaction"
+ },
+ "afecto.k0025": {
+  "es": "Retorno:</b> registras lo que obtuviste y comparas",
+  "pt": "Retorno:</b> você registra o que obteve e compara",
+  "en": "Return:</b> you record what you got and compare"
+ },
+ "afecto.k0026": {
+  "es": "Evolución:</b> ves tu satisfacción acumulada y ajustas dónde invertir",
+  "pt": "Evolução:</b> você vê sua satisfação acumulada e ajusta onde investir",
+  "en": "Evolution:</b> you see your accumulated satisfaction and adjust where to invest"
+ },
+ "afecto.k0027": {
+  "es": "Los cuatro niveles",
+  "pt": "Os quatro níveis",
+  "en": "The four levels"
+ },
+ "afecto.k0028": {
+  "es": "Hipótesis abiertas: el cruce entre grandes grupos y niveles, los cuadrantes, los nombres por cuadrante y las conexiones del paso 5 y de los atajos son propuesta nuestra. Las funciones de cada emoción son hipótesis evolutivas",
+  "pt": "Hipóteses abertas: o cruzamento entre reinos e níveis, os quadrantes, os nomes por quadrante e as conexões do passo 5 e dos atalhos são proposta nossa. As funções de cada emoção são hipóteses evolutivas",
+  "en": "Open hypotheses: the match between kingdoms and levels, the quadrants, the per-quadrant names, and the links in step 5 and for shortcuts are our proposal. The function of each emotion is an evolutionary hypothesis"
+ },
+ "afecto.k0029": {
+  "es": "Origen de cada paso",
+  "pt": "Origem de cada passo",
+  "en": "Source of each step"
+ },
+ "afecto.k0030": {
+  "es": "Paso",
+  "pt": "Passo",
+  "en": "Step"
+ },
+ "afecto.k0031": {
+  "es": "Agrado",
+  "pt": "Agrado",
+  "en": "Pleasantness"
+ },
+ "afecto.k0032": {
+  "es": "Nivel",
+  "pt": "Nível",
+  "en": "Level"
+ },
+ "afecto.k0033": {
+  "es": "Familia",
+  "pt": "Família",
+  "en": "Phylum"
+ },
+ "afecto.k0034": {
+  "es": "Emoción",
+  "pt": "Emoção",
+  "en": "Emotion"
+ },
+ "afecto.k0035": {
+  "es": "Más específico",
+  "pt": "Mais específico",
+  "en": "More specific"
+ },
+ "afecto.k0036": {
+  "es": "Aparte",
+  "pt": "À parte",
+  "en": "Aside"
+ },
+ "afecto.k0037": {
+  "es": "¿Vino de un atajo",
+  "pt": "Veio de um atalho",
+  "en": "Did it come from a shortcut"
+ },
+ "afecto.k0038": {
+  "es": "Probar el camino",
+  "pt": "Testar o caminho",
+  "en": "Try the path"
+ },
+ "afecto.k0039": {
+  "es": "Empezar de cero",
+  "pt": "Começar do zero",
+  "en": "Start over"
+ },
+ "afecto.k0040": {
+  "es": "Dónde termina cada camino",
+  "pt": "Onde termina cada caminho",
+  "en": "Where each path ends"
+ },
+ "afecto.k0041": {
+  "es": "Un camino es una emoción en uno de sus cuadrantes. Cuenta cuántos siguen al paso 5, por nivel",
+  "pt": "Um caminho é uma emoção em um dos seus quadrantes. Conta quantos seguem ao passo 5, por nível",
+  "en": "A path is one emotion in one of its quadrants. This counts how many continue to step 5, by level"
+ },
+ "afecto.k0042": {
+  "es": "Sigue a una emoción compleja",
+  "pt": "Segue a uma emoção complexa",
+  "en": "Continues to a complex emotion"
+ },
+ "afecto.k0043": {
+  "es": "Solo a una rareza",
+  "pt": "Só a uma raridade",
+  "en": "Only to an oddity"
+ },
+ "afecto.k0044": {
+  "es": "Termina en el paso",
+  "pt": "Termina no passo",
+  "en": "Ends at step"
+ },
+ "afecto.k0045": {
+  "es": "Atajos",
+  "pt": "Atalhos",
+  "en": "Shortcuts"
+ },
+ "afecto.k0046": {
+  "es": "Un atajo no es una emoción: es un estímulo que activa una o varias emociones con más fuerza que su fuente natural. Por eso no es un paso más. Es una pregunta aparte, que aparece cuando la emoción elegida tiene atajos",
+  "pt": "Um atalho não é uma emoção: é um estímulo que ativa uma ou várias emoções com mais força que sua fonte natural. Por isso não é um passo a mais. É uma pergunta à parte, que aparece quando a emoção escolhida tem atalhos",
+  "en": "A shortcut is not an emotion. It is a stimulus that triggers one or more emotions more strongly than their natural source. So it is not another step. It is a separate question that appears when the chosen emotion has shortcuts"
+ },
+ "afecto.k0047": {
+  "es": "Plano completo",
+  "pt": "Mapa completo",
+  "en": "Full map"
+ },
+ "afecto.k0048": {
+  "es": "Familia por cuadrante, en el orden de los niveles de la app ESTIMAT. Toca cualquier emoción para ver su camino arriba",
+  "pt": "Família por quadrante, na ordem dos níveis do app ESTIMAT. Toque qualquer emoção para ver seu caminho acima",
+  "en": "Phylum by quadrant, in the order of the ESTIMAT app's levels. Tap any emotion to see its path above"
+ },
+ "afecto.k0049": {
+  "es": "Borde lleno: cuadrante principal",
+  "pt": "Borda cheia: quadrante principal",
+  "en": "Solid border: main quadrant"
+ },
+ "afecto.k0050": {
+  "es": "Más claro: también posible",
+  "pt": "Mais claro: também possível",
+  "en": "Lighter: also possible"
+ },
+ "afecto.k0051": {
+  "es": "Borde de rayas: paso 5 · punto de color: sube de nivel",
+  "pt": "Borda tracejada: passo 5 · ponto colorido: sobe de nível",
+  "en": "Dashed border: step 5 · color dot: moves up a level"
+ },
+ "afecto.k0052": {
+  "es": "Fuentes: Kurzban (2025), <i>All the Feels</i>, y el póster de su clasificación. Russell (1980), modelo circular del afecto",
+  "pt": "Fontes: Kurzban (2025), <i>All the Feels</i>, e o pôster da sua classificação. Russell (1980), modelo circular do afeto",
+  "en": "Sources: Kurzban (2025), <i>All the Feels</i>, and the poster of his taxonomy. Russell (1980), circumplex model of affect"
+ },
+ "afecto.k0053": {
+  "es": "La agrupación de Monera se leyó del póster",
+  "pt": "O agrupamento de Monera foi lido do pôster",
+  "en": "The Monera grouping was read from the poster"
+ },
+ "afecto.k0054": {
+  "es": "el orden visual deja dudas sobre dónde empieza cada grupo",
+  "pt": "a ordem visual deixa dúvidas sobre onde começa cada grupo",
+  "en": "its layout leaves doubts about where each group starts"
+ },
+ "afecto.k0055": {
+  "es": "Contacto",
+  "pt": "Contato",
+  "en": "Contact"
+ },
+ "afecto.k0056": {
+  "es": "Elige el paso anterior",
+  "pt": "Escolha o passo anterior",
+  "en": "Choose the previous step"
+ },
+ "afecto.k0057": {
+  "es": "¿Agradable o desagradable",
+  "pt": "Agradável ou desagradável",
+  "en": "Pleasant or unpleasant"
+ },
+ "afecto.k0058": {
+  "es": "Más bien agradable",
+  "pt": "Mais para agradável",
+  "en": "Rather pleasant"
+ },
+ "afecto.k0059": {
+  "es": "Más bien desagradable",
+  "pt": "Mais para desagradável",
+  "en": "Rather unpleasant"
+ },
+ "afecto.k0060": {
+  "es": "Neutro",
+  "pt": "Neutro",
+  "en": "Neutral"
+ },
+ "afecto.k0061": {
+  "es": "¿Con mucha o poca energía",
+  "pt": "Com muita ou pouca energia",
+  "en": "High or low energy"
+ },
+ "afecto.k0062": {
+  "es": "Energía",
+  "pt": "Energia",
+  "en": "Energy"
+ },
+ "afecto.k0063": {
+  "es": "Mucha",
+  "pt": "Muita",
+  "en": "High"
+ },
+ "afecto.k0064": {
+  "es": "Poca",
+  "pt": "Pouca",
+  "en": "Low"
+ },
+ "afecto.k0065": {
+  "es": "¿En qué nivel lo sientes",
+  "pt": "Em que nível você sente",
+  "en": "At what level do you feel it"
+ },
+ "afecto.k0066": {
+  "es": "¿Qué tipo",
+  "pt": "Que tipo",
+  "en": "What kind"
+ },
+ "afecto.k0067": {
+  "es": "¿Cuál es",
+  "pt": "Qual é",
+  "en": "Which one"
+ },
+ "afecto.k0068": {
+  "es": "Sigue al paso",
+  "pt": "Segue ao passo",
+  "en": "Continues to step"
+ },
+ "afecto.k0069": {
+  "es": "¿Algo más específico",
+  "pt": "Algo mais específico",
+  "en": "Something more specific"
+ },
+ "afecto.k0070": {
+  "es": "Es %s, sin más",
+  "pt": "É %s, só isso",
+  "en": "It's %s, nothing more"
+ },
+ "afecto.k0071": {
+  "es": "Este camino termina en el paso",
+  "pt": "Este caminho termina no passo",
+  "en": "This path ends at step"
+ },
+ "afecto.k0072": {
+  "es": "Aparte: ¿vino de un atajo",
+  "pt": "À parte: veio de um atalho",
+  "en": "Aside: did it come from a shortcut"
+ },
+ "afecto.k0073": {
+  "es": "Pregunta opcional, no es un paso",
+  "pt": "Pergunta opcional, não é um passo",
+  "en": "Optional question, not a step"
+ },
+ "afecto.k0074": {
+  "es": "No",
+  "pt": "Não",
+  "en": "No"
+ },
+ "afecto.k0075": {
+  "es": "Esta emoción no tiene atajos en la lista",
+  "pt": "Esta emoção não tem atalhos na lista",
+  "en": "This emotion has no shortcuts on the list"
+ },
+ "afecto.k0076": {
+  "es": "Resultado",
+  "pt": "Resultado",
+  "en": "Result"
+ },
+ "afecto.k0077": {
+  "es": "Completa los pasos para llegar a una emoción",
+  "pt": "Complete os passos para chegar a uma emoção",
+  "en": "Complete the steps to reach an emotion"
+ },
+ "afecto.k0078": {
+  "es": "Ejemplo",
+  "pt": "Exemplo",
+  "en": "Example"
+ },
+ "afecto.k0079": {
+  "es": "Llegaste a",
+  "pt": "Você chegou a",
+  "en": "You reached"
+ },
+ "afecto.k0080": {
+  "es": "Sube de nivel",
+  "pt": "Sobe de nível",
+  "en": "Moves up a level"
+ },
+ "afecto.k0081": {
+  "es": "Se apoya en",
+  "pt": "Apoia-se em",
+  "en": "Builds on"
+ },
+ "afecto.k0082": {
+  "es": "Vino de un atajo: %s. Es un estímulo, no una emoción",
+  "pt": "Veio de um atalho: %s. É um estímulo, não uma emoção",
+  "en": "It came from a shortcut: %s. It is a stimulus, not an emotion"
+ },
+ "afecto.k0083": {
+  "es": "Nombre original de Kurzban",
+  "pt": "Nome original de Kurzban",
+  "en": "Kurzban's term"
+ },
+ "afecto.k0084": {
+  "es": "Agradable · mucha energía",
+  "pt": "Agradável · muita energia",
+  "en": "Pleasant · high energy"
+ },
+ "afecto.k0085": {
+  "es": "Agradable · poca energía",
+  "pt": "Agradável · pouca energia",
+  "en": "Pleasant · low energy"
+ },
+ "afecto.k0086": {
+  "es": "Desagradable · mucha energía",
+  "pt": "Desagradável · muita energia",
+  "en": "Unpleasant · high energy"
+ },
+ "afecto.k0087": {
+  "es": "Desagradable · poca energía",
+  "pt": "Desagradável · pouca energia",
+  "en": "Unpleasant · low energy"
+ },
+ "afecto.k0088": {
+  "es": "caminos posibles (emoción × cuadrante",
+  "pt": "caminhos possíveis (emoção × quadrante",
+  "en": "possible paths (emotion × quadrant"
+ },
+ "afecto.k0089": {
+  "es": "siguen a una emoción compleja",
+  "pt": "seguem a uma emoção complexa",
+  "en": "continue to a complex emotion"
+ },
+ "afecto.k0090": {
+  "es": "solo a una rareza",
+  "pt": "só a uma raridade",
+  "en": "only to an oddity"
+ },
+ "afecto.k0091": {
+  "es": "terminan en el paso",
+  "pt": "terminam no passo",
+  "en": "end at step"
+ },
+ "afecto.k0092": {
+  "es": "Imita",
+  "pt": "Imita",
+  "en": "Mimics"
+ },
+ "afecto.k0093": {
+  "es": "Agradable",
+  "pt": "Agradável",
+  "en": "Pleasant"
+ },
+ "afecto.k0094": {
+  "es": "Desagradable",
+  "pt": "Desagradável",
+  "en": "Unpleasant"
+ },
+ "sistemas.k0001": {
+  "es": "es",
+  "pt": "pt",
+  "en": "en"
+ },
+ "sistemas.k0002": {
+  "es": "Emociones que regulan",
+  "pt": "Emoções que regulam",
+  "en": "Emotions That Regulate"
+ },
+ "sistemas.k0003": {
+  "es": "Cada emoción como una señal de error en un sistema que se regula. ESTIMAT une cibernética, teoría de sistemas y la clasificación de Kurzban",
+  "pt": "Cada emoção como um sinal de erro em um sistema que se regula. O app ESTIMAT une cibernética, teoria de sistemas e a classificação de Kurzban",
+  "en": "Each emotion as an error signal in a self-regulating system. ESTIMAT joins cybernetics, systems theory and Kurzban's taxonomy"
+ },
+ "sistemas.k0004": {
+  "es": "index",
+  "pt": "pt",
+  "en": "en"
+ },
+ "sistemas.k0005": {
+  "es": "Inicio",
+  "pt": "Início",
+  "en": "Home"
+ },
+ "sistemas.k0006": {
+  "es": "Emociones",
+  "pt": "Emoções",
+  "en": "Emotions"
+ },
+ "sistemas.k0007": {
+  "es": "sistemas",
+  "pt": "sistemas-pt",
+  "en": "sistemas-en"
+ },
+ "sistemas.k0008": {
+  "es": "Ensayo",
+  "pt": "Ensaio",
+  "en": "Essay"
+ },
+ "sistemas.k0009": {
+  "es": "",
+  "pt": "pt.html",
+  "en": ""
+ },
+ "sistemas.k0010": {
+  "es": "Abrir",
+  "pt": "Abrir",
+  "en": "Open"
+ },
+ "sistemas.k0011": {
+  "es": " aria-current=\"true\"",
+  "pt": "",
+  "en": ""
+ },
+ "sistemas.k0012": {
+  "es": "",
+  "pt": " aria-current=\"true\"",
+  "en": ""
+ },
+ "sistemas.k0013": {
+  "es": "",
+  "pt": "",
+  "en": " aria-current=\"true\""
+ },
+ "sistemas.k0014": {
+  "es": "cibernética y sistemas",
+  "pt": "cibernética e sistemas",
+  "en": "cybernetics and systems"
+ },
+ "sistemas.k0015": {
+  "es": "Emociones que regulan",
+  "pt": "Emoções que regulam",
+  "en": "Emotions that regulate"
+ },
+ "sistemas.k0016": {
+  "es": "Una hipótesis: cada emoción es una señal de error en un sistema que se regula. Nombrarla con precisión es darle al sistema un mejor tablero",
+  "pt": "Uma hipótese: cada emoção é um sinal de erro em um sistema que se regula. Nomeá-la com precisão é dar ao sistema um painel melhor",
+  "en": "A hypothesis: each emotion is an error signal in a system that regulates itself. Naming it precisely gives the system a better dashboard"
+ },
+ "sistemas.k0017": {
+  "es": "Probar el camino del afecto",
+  "pt": "Experimentar o caminho do afeto",
+  "en": "Try the path of affect"
+ },
+ "sistemas.k0018": {
+  "es": "Conocer la app ESTIMAT",
+  "pt": "Conhecer o app ESTIMAT",
+  "en": "Meet the ESTIMAT app"
+ },
+ "sistemas.k0019": {
+  "es": "Comentar en",
+  "pt": "Comentar no",
+  "en": "Comment on"
+ },
+ "sistemas.k0020": {
+  "es": "El ciclo que se corrige solo",
+  "pt": "O ciclo que se corrige sozinho",
+  "en": "The self-correcting loop"
+ },
+ "sistemas.k0021": {
+  "es": "La cibernética estudia sistemas que se corrigen solos. Norbert Wiener la definió en 1948: un sistema tiene una meta, mide su estado, compara los dos y actúa sobre la diferencia. Un termostato hace eso con la temperatura",
+  "pt": "A cibernética estuda sistemas que se corrigem sozinhos. Norbert Wiener a definiu em 1948: um sistema tem uma meta, mede seu estado, compara os dois e age sobre a diferença. Um termostato faz isso com a temperatura",
+  "en": "Cybernetics studies systems that correct themselves. Norbert Wiener defined it in 1948: a system has a goal, measures its state, compares the two and acts on the difference. A thermostat does this with temperature"
+ },
+ "sistemas.k0022": {
+  "es": "La app ESTIMAT aplica el mismo ciclo a tus decisiones. Antes de actuar predices cuánto esfuerzo te costará y cuánta satisfacción te dará. Después registras lo que obtuviste. La diferencia entre predicción y retorno es tu señal de error, y con ella ajustas la próxima predicción",
+  "pt": "O app ESTIMAT aplica o mesmo ciclo às suas decisões. Antes de agir, você prevê quanto esforço vai custar e quanta satisfação vai dar. Depois registra o que obteve. A diferença entre previsão e retorno é seu sinal de erro, e com ela você ajusta a próxima previsão",
+  "en": "The ESTIMAT app applies the same loop to your decisions. Before acting, you predict how much effort it will cost and how much satisfaction it will bring. Afterwards you log what you got. The gap between prediction and return is your error signal, and you use it to adjust the next prediction"
+ },
+ "sistemas.k0023": {
+  "es": "Ciclo de la app ESTIMAT: meta y predicción, acción, retorno, comparación y ajuste",
+  "pt": "Ciclo do app ESTIMAT: meta e previsão, ação, retorno, comparação e ajuste",
+  "en": "ESTIMAT app loop: goal and prediction, action, return, comparison and adjustment"
+ },
+ "sistemas.k0024": {
+  "es": "Mapear",
+  "pt": "Mapear",
+  "en": "Map"
+ },
+ "sistemas.k0025": {
+  "es": "Invertir",
+  "pt": "Investir",
+  "en": "Invest"
+ },
+ "sistemas.k0026": {
+  "es": "Retorno",
+  "pt": "Retorno",
+  "en": "Return"
+ },
+ "sistemas.k0027": {
+  "es": "Comparar",
+  "pt": "Comparar",
+  "en": "Compare"
+ },
+ "sistemas.k0028": {
+  "es": "meta",
+  "pt": "meta",
+  "en": "goal"
+ },
+ "sistemas.k0029": {
+  "es": "predicción y acción",
+  "pt": "previsão e ação",
+  "en": "prediction and action"
+ },
+ "sistemas.k0030": {
+  "es": "lo que obtuviste",
+  "pt": "o que você obteve",
+  "en": "what you got"
+ },
+ "sistemas.k0031": {
+  "es": "error = predicción − retorno",
+  "pt": "erro = previsão − retorno",
+  "en": "error = prediction − return"
+ },
+ "sistemas.k0032": {
+  "es": "ajustar",
+  "pt": "ajustar",
+  "en": "adjust"
+ },
+ "sistemas.k0033": {
+  "es": "El ciclo de la app ESTIMAT como ciclo que se corrige solo. El error de predicción corrige la meta o la próxima apuesta",
+  "pt": "O ciclo do app ESTIMAT como ciclo que se corrige sozinho. O erro de previsão corrige a meta ou a próxima aposta",
+  "en": "The cycle of the ESTIMAT app as a self-correcting loop. The prediction error corrects the goal or the next bet"
+ },
+ "sistemas.k0034": {
+  "es": "Cada emoción mide algo",
+  "pt": "Cada emoção mede algo",
+  "en": "Each emotion measures something"
+ },
+ "sistemas.k0035": {
+  "es": "propone que cada emoción resuelve un problema: mide una cantidad y empuja a actuar. Leído con la cibernética, una emoción tiene las tres piezas del ciclo: un sensor, una señal de error y una acción",
+  "pt": "propõe que cada emoção resolve um problema: mede uma quantidade e empurra para agir. Lida com a cibernética, uma emoção tem as três peças do ciclo: um sensor, um sinal de erro e uma ação",
+  "en": "proposes that each emotion solves a problem: it measures a quantity and pushes you to act. Read through cybernetics, an emotion has the three parts of the loop: a sensor, an error signal and an action"
+ },
+ "sistemas.k0036": {
+  "es": "Hambre",
+  "pt": "Fome",
+  "en": "Hunger"
+ },
+ "sistemas.k0037": {
+  "es": "mide cuánta energía falta y empuja a comer",
+  "pt": "mede quanta energia falta e empurra a comer",
+  "en": "measures how much energy is missing and pushes you to eat"
+ },
+ "sistemas.k0038": {
+  "es": "Enojo",
+  "pt": "Raiva",
+  "en": "Anger"
+ },
+ "sistemas.k0039": {
+  "es": "mide si alguien te valora menos de lo que esperas y empuja a reclamar o negociar",
+  "pt": "mede se alguém te valoriza menos do que você espera e empurra a reclamar ou negociar",
+  "en": "measures whether someone values you less than you expect and pushes you to protest or negotiate"
+ },
+ "sistemas.k0040": {
+  "es": "Aburrimiento",
+  "pt": "Tédio",
+  "en": "Boredom"
+ },
+ "sistemas.k0041": {
+  "es": "mide que la tarea rinde poco y empuja a buscar otra mejor",
+  "pt": "mede que a tarefa rende pouco e empurra a buscar outra melhor",
+  "en": "measures that the task pays off little and pushes you to look for a better one"
+ },
+ "sistemas.k0042": {
+  "es": "Sorpresa",
+  "pt": "Surpresa",
+  "en": "Surprise"
+ },
+ "sistemas.k0043": {
+  "es": "mide que tu predicción falló y dirige la atención para actualizar",
+  "pt": "mede que sua previsão falhou e dirige a atenção para atualizar",
+  "en": "measures that your prediction failed and directs attention to update"
+ },
+ "sistemas.k0044": {
+  "es": "Las funciones de cada emoción son hipótesis evolutivas. Algunas tienen más evidencia que otras",
+  "pt": "As funções de cada emoção são hipóteses evolutivas. Algumas têm mais evidência que outras",
+  "en": "The functions of each emotion are evolutionary hypotheses. Some have more evidence than others"
+ },
+ "sistemas.k0045": {
+  "es": "Variedad suficiente para regular</h2>\n  <p>W. Ross Ashby formuló la ley de la variedad requerida: un regulador solo controla tantas perturbaciones distintas como respuestas distintas tiene. Con dos palabras, «bien» y «mal», no se distingue un hambre de un enojo, y la respuesta tiende a ser la misma para los dos.</p>\n  <p>Conant y Ashby (1970) dieron un paso más: todo buen regulador de un sistema debe contener un modelo de ese sistema. Nombrar lo que sientes es construir ese modelo. Por eso el camino del afecto va de dos opciones a más de cien, pero paso a paso, para que no se vuelva una lista imposible",
+  "pt": "Variedade suficiente para regular</h2>\n  <p>W. Ross Ashby formulou a lei da variedade requerida: um regulador só controla tantas perturbações distintas quantas respostas distintas ele tem. Com duas palavras, «bem» e «mal», não se distingue uma fome de uma raiva, e a resposta tende a ser a mesma para as duas.</p>\n  <p>Conant e Ashby (1970) deram um passo além: todo bom regulador de um sistema deve conter um modelo desse sistema. Nomear o que você sente é construir esse modelo. Por isso o caminho do afeto vai de duas opções a mais de cem, mas passo a passo, para não virar uma lista impossível",
+  "en": "Enough variety to regulate</h2>\n  <p>W. Ross Ashby stated the law of requisite variety: a regulator can only handle as many distinct disturbances as it has distinct responses. With two words, \"good\" and \"bad\", you cannot tell hunger from anger, and the response tends to be the same for both.</p>\n  <p>Conant and Ashby (1970) went one step further: every good regulator of a system must contain a model of that system. Naming what you feel is building that model. That is why the path of affect goes from two options to more than a hundred, but step by step, so it never becomes an impossible list"
+ },
+ "sistemas.k0046": {
+  "es": "Esto es una analogía con base formal, no una prueba. La pregunta empírica es si más precisión al nombrar mejora la regulación. Algunos estudios sobre granularidad emocional apuntan en esa dirección",
+  "pt": "Isto é uma analogia com base formal, não uma prova. A pergunta empírica é se mais precisão ao nomear melhora a regulação. Alguns estudos sobre granularidade emocional apontam nessa direção",
+  "en": "This is an analogy with a formal basis, not a proof. The empirical question is whether more precise naming improves regulation. Some studies on emotional granularity point that way"
+ },
+ "sistemas.k0047": {
+  "es": "en la app ESTIMAT queda como hipótesis a medir",
+  "pt": "no app ESTIMAT fica como hipótese a medir",
+  "en": "in the ESTIMAT app it remains a hypothesis to measure"
+ },
+ "sistemas.k0048": {
+  "es": "Ciclos anidados",
+  "pt": "Ciclos aninhados",
+  "en": "Nested loops"
+ },
+ "sistemas.k0049": {
+  "es": "propuso que el comportamiento es una jerarquía de ciclos de control: los de arriba fijan las metas de los de abajo. La app ESTIMAT ordena la vida en cuatro niveles que funcionan así, del más rápido y simple al más lento y que más une",
+  "pt": "propôs que o comportamento é uma hierarquia de ciclos de controle: os de cima fixam as metas dos de baixo. O app ESTIMAT organiza a vida em quatro níveis que funcionam assim, do mais rápido e simples ao mais lento e que mais une",
+  "en": "proposed that behavior is a hierarchy of control loops: higher loops set the goals of lower ones. The ESTIMAT app sorts life into four levels that work this way, from the fastest and simplest to the slowest and most integrating"
+ },
+ "sistemas.k0050": {
+  "es": "Corporal",
+  "pt": "Corporal",
+  "en": "Bodily"
+ },
+ "sistemas.k0051": {
+  "es": "Reactivo. Señales del cuerpo: hambre, dolor, sueño",
+  "pt": "Reativo. Sinais do corpo: fome, dor, sono",
+  "en": "Reactive. Body signals: hunger, pain, sleepiness"
+ },
+ "sistemas.k0052": {
+  "es": "Racional",
+  "pt": "Racional",
+  "en": "Rational"
+ },
+ "sistemas.k0053": {
+  "es": "Predictivo. Atención y conocimiento: curiosidad, sorpresa, confusión",
+  "pt": "Preditivo. Atenção e conhecimento: curiosidade, surpresa, confusão",
+  "en": "Predictive. Attention and knowledge: curiosity, surprise, confusion"
+ },
+ "sistemas.k0054": {
+  "es": "Emocional",
+  "pt": "Emocional",
+  "en": "Emotional"
+ },
+ "sistemas.k0055": {
+  "es": "Ponderado. Peligros y oportunidades: miedo, ansiedad, placer",
+  "pt": "Ponderado. Perigos e oportunidades: medo, ansiedade, prazer",
+  "en": "Weighted. Dangers and opportunities: fear, anxiety, pleasure"
+ },
+ "sistemas.k0056": {
+  "es": "Integrador. Vínculos y grupo: amor, enojo, vergüenza, pertenencia",
+  "pt": "Integrador. Vínculos e grupo: amor, raiva, vergonha, pertencimento",
+  "en": "Integrating. Bonds and group: love, anger, shame, belonging"
+ },
+ "sistemas.k0057": {
+  "es": "Los cuatro grandes grupos de Kurzban encajan casi uno a uno con estos niveles. Algunas emociones complejas suben de nivel: el deleite junta una sorpresa (racional) con felicidad",
+  "pt": "Os quatro grandes grupos de Kurzban encaixam quase um a um com esses níveis. Algumas emoções complexas sobem de nível: o deleite junta uma surpresa (racional) com felicidade",
+  "en": "Kurzban's four kingdoms fit these levels almost one to one. Some complex emotions move up a level: delight joins a surprise (rational) with happiness"
+ },
+ "sistemas.k0058": {
+  "es": "Lo que aprendieron las organizaciones",
+  "pt": "O que as organizações aprenderam",
+  "en": "What organizations learned"
+ },
+ "sistemas.k0059": {
+  "es": "Las organizaciones usan este ciclo hace décadas. El ciclo de Deming (planificar, hacer, verificar, actuar) es el mismo que mapear, invertir y comparar el retorno",
+  "pt": "As organizações usam esse ciclo há décadas. O ciclo de Deming (planejar, fazer, verificar, agir) é o mesmo que mapear, investir e comparar o retorno",
+  "en": "Organizations have used this loop for decades. The Deming cycle (plan, do, check, act) is the same as mapping, investing and comparing the return"
+ },
+ "sistemas.k0060": {
+  "es": "También aprendieron un límite. Kluger y DeNisi (1996) juntaron cientos de estudios sobre retroalimentación en el trabajo. En promedio mejoró el desempeño, pero en cerca de un tercio de los casos lo empeoró, sobre todo cuando apuntaba a la persona y no a la tarea. Por eso la app ESTIMAT compara predicciones con resultados y no califica a quien los registra",
+  "pt": "Também aprenderam um limite. Kluger e DeNisi (1996) reuniram centenas de estudos sobre retroalimentação no trabalho. Em média melhorou o desempenho, mas em cerca de um terço dos casos piorou, sobretudo quando mirava a pessoa e não a tarefa. Por isso o app ESTIMAT compara previsões com resultados e não avalia quem os registra",
+  "en": "They also learned a limit. Kluger and DeNisi (1996) pooled hundreds of studies on feedback at work. On average it improved performance, but in about a third of cases it made it worse, especially when it targeted the person rather than the task. That is why the ESTIMAT app compares predictions with results and does not grade the person who logs them"
+ },
+ "sistemas.k0061": {
+  "es": "Hipótesis para poner a prueba",
+  "pt": "Hipóteses para testar",
+  "en": "Hypotheses to test"
+ },
+ "sistemas.k0062": {
+  "es": "Precisión y ajuste",
+  "pt": "Precisão e ajuste",
+  "en": "Precision and calibration"
+ },
+ "sistemas.k0063": {
+  "es": "Quien nombra su afecto con más detalle reduce su error de predicción en las semanas siguientes más que quien solo marca agradable o desagradable",
+  "pt": "Quem nomeia seu afeto com mais detalhe reduz seu erro de previsão nas semanas seguintes mais do que quem só marca agradável ou desagradável",
+  "en": "People who name their affect in more detail reduce their prediction error over the following weeks more than those who only mark pleasant or unpleasant"
+ },
+ "sistemas.k0064": {
+  "es": "Ánimo y sesgo",
+  "pt": "Humor e viés",
+  "en": "Mood and bias"
+ },
+ "sistemas.k0065": {
+  "es": "El afecto al iniciar predice la dirección del error: el ánimo agradable con mucha energía lleva a sobrevalorar, el desagradable con poca energía a infravalorar",
+  "pt": "O afeto ao iniciar prevê a direção do erro: o humor agradável com muita energia leva a superestimar, o desagradável com pouca energia a subestimar",
+  "en": "Affect at the start predicts the direction of the error: pleasant high-energy mood leads to overestimating, unpleasant low-energy mood to underestimating"
+ },
+ "sistemas.k0066": {
+  "es": "Niveles y retorno",
+  "pt": "Níveis e retorno",
+  "en": "Levels and return"
+ },
+ "sistemas.k0067": {
+  "es": "Las acciones que apuntan a niveles que más unen rinden más satisfacción por hora, pero con más varianza",
+  "pt": "As ações que miram níveis que mais unem rendem mais satisfação por hora, mas com mais variância",
+  "en": "Actions aimed at more integrating levels yield more satisfaction per hour, but with more variance"
+ },
+ "sistemas.k0068": {
+  "es": "Si alguna no se cumple con datos reales, la cambiamos. Eso también es un ciclo que se corrige solo",
+  "pt": "Se alguma não se cumprir com dados reais, a mudamos. Isso também é um ciclo que se corrige sozinho",
+  "en": "If any of them fails with real data, we change it. That is a self-correcting loop too"
+ },
+ "sistemas.k0069": {
+  "es": "¿Qué ves mal",
+  "pt": "O que você vê de errado",
+  "en": "What do you see wrong"
+ },
+ "sistemas.k0070": {
+  "es": "Queremos críticas. Dinos qué hipótesis te parece débil, qué emoción está mal ubicada o qué fuente falta",
+  "pt": "Queremos críticas. Diga qual hipótese parece fraca, qual emoção está mal colocada ou qual fonte falta",
+  "en": "We want criticism. Tell us which hypothesis seems weak, which emotion is misplaced or which source is missing"
+ },
+ "sistemas.k0071": {
+  "es": "O por correo",
+  "pt": "Ou por e-mail",
+  "en": "Or by email"
+ },
+ "sistemas.k0072": {
+  "es": "Copiar",
+  "pt": "Copiar",
+  "en": "Copy"
+ },
+ "sistemas.k0073": {
+  "es": "Emociones%20que%20regulan",
+  "pt": "Emo%C3%A7%C3%B5es%20que%20regulam",
+  "en": "Emotions%20that%20regulate"
+ },
+ "sistemas.k0074": {
+  "es": "Abrir correo",
+  "pt": "Abrir e-mail",
+  "en": "Open email"
+ },
+ "sistemas.k0075": {
+  "es": "Fuentes",
+  "pt": "Fontes",
+  "en": "Sources"
+ },
+ "sistemas.k0076": {
+  "es": "y",
+  "pt": "e",
+  "en": "and"
+ },
+ "sistemas.k0077": {
+  "es": "Copiado",
+  "pt": "Copiado",
+  "en": "Copied"
+ }
+}
